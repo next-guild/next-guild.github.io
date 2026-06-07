@@ -27,20 +27,6 @@ body {
     color: #f0e9ff;
 }
 
-@media (min-width: 701px) {
-
-    html.home-page,
-    body.home-page {
-        height: 100%;
-        overflow-y: hidden;
-    }
-
-    html.home-page #__docusaurus {
-        height: 100vh;
-        overflow: hidden;
-    }
-}
-
 #__docusaurus {
     min-height: 100vh;
 }

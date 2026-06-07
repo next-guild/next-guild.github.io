@@ -40,9 +40,7 @@ function Home() {
     useEffect(() => {
         document.documentElement.classList.add('home-page');
         document.body.classList.add('home-page');
-        document.body.style.overflow = 'hidden';
         return () => {
-            document.body.style.overflow = 'visible';
             document.documentElement.classList.remove('home-page');
             document.body.classList.remove('home-page');
         };

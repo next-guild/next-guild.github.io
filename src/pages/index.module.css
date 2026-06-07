@@ -1,6 +1,5 @@
 .hero {
-    height: 100vh;
-    min-height: 720px;
+    min-height: max(720px, 100vh);
     box-sizing: border-box;
     padding: 48px 24px;
     background: radial-gradient(circle at top left, rgba(204, 102, 255, 0.25), transparent 24%),
