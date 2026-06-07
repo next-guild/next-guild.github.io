@@ -1,7 +1,7 @@
 ---
 id: overview
 slug: /
-title: Vue d'ensemble DoA
+title: Vue d'ensemble du DoA
 ---
 
 # Vue d'ensemble du DoA
