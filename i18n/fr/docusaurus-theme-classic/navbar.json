@@ -1,0 +1,10 @@
+{
+  "logo.alt": {
+    "message": "Guild logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Discord": {
+    "message": "Discord",
+    "description": "Navbar item with label Discord"
+  }
+}

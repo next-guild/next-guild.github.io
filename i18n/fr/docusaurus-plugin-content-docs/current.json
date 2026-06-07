@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tacticsSidebar.category.Start Here": {
+    "message": "Commencer ici",
+    "description": "The label for category 'Start Here' in sidebar 'tacticsSidebar'"
+  },
+  "sidebar.tacticsSidebar.category.Tactics": {
+    "message": "Tactiques",
+    "description": "The label for category 'Tactics' in sidebar 'tacticsSidebar'"
+  },
+  "sidebar.tacticsSidebar.category.3-3 Teaching": {
+    "message": "3-3 Teaching",
+    "description": "The label for category '3-3 Teaching' in sidebar 'tacticsSidebar'"
+  },
+  "sidebar.tacticsSidebar.category.6-0": {
+    "message": "6-0",
+    "description": "The label for category '6-0' in sidebar 'tacticsSidebar'"
+  },
+  "sidebar.tacticsSidebar.category.5 Mez City Split": {
+    "message": "5 Mez City Split",
+    "description": "The label for category '5 Mez City Split' in sidebar 'tacticsSidebar'"
+  },
+  "sidebar.tacticsSidebar.category.Gear": {
+    "message": "Gear",
+    "description": "The label for category 'Gear' in sidebar 'tacticsSidebar'"
+  },
+  "sidebar.tacticsSidebar.category.Reference": {
+    "message": "Référence",
+    "description": "The label for category 'Reference' in sidebar 'tacticsSidebar'"
+  }
+}
