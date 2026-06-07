@@ -32,7 +32,7 @@ Gameplay videos are missing and will be added soon.
 | VoR | Spikes left-side city, goes with MLK to 360. Places [Edge of extinction]. | [Open role](/tactics/5-mesmers-city-split/vor) |
 | MeMo | Spikes left-side city. Replaces UA with more spike damage and [Healing Seed] support. | [Open role](/tactics/5-mesmers-city-split/memo) |
 | Emo | Receives TT recall in city and walks up for the Jadoth transition. | [Open role](/tactics/5-mesmers-city-split/emo) |
-| MT | Needs a clean city recall tactic or [Heart of Shadow] through wall. | [Open role](/tactics/5-mesmers-city-split/mt) |
+| MT | Does the first two waves of 360 with MLK and VoR. | [Open role](/tactics/5-mesmers-city-split/mt) |
 | TT | Recalls Emo in city and transitions quickly into the Jadoth ball. | [Open role](/tactics/5-mesmers-city-split/tt) |
 
 ## Team build
