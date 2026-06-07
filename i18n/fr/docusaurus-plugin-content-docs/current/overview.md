@@ -4,11 +4,11 @@ slug: /
 title: Vue d'ensemble DoA
 ---
 
-# Vue d'ensemble DoA
+# Vue d'ensemble du DoA
 
-Le Domain of Anguish est une zone élite composée de plusieurs zones, construite autour de pulls coordonnés et de spikes propres.
+Le Domain de l'Angoisse est une zone élite composée de plusieurs zones, construite autour de pulls coordonnés et de spikes propres.
 
-## Qu'est-ce que DoA ?
+## Qu'est-ce que le DoA ?
 
 - Quatre zones principales : City, Veil, Gloom et Foundry.
 - Chaque zone contient des objectifs de quête à terminer avant le combat final.
