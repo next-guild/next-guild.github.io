@@ -13,6 +13,8 @@
 
 html {
     min-height: 100%;
+    max-width: 100%;
+    overflow-x: clip;
     background-color: #13091f;
     background-image: radial-gradient(circle at 50% 0%, rgba(130, 49, 255, 0.12), transparent 34rem),
         linear-gradient(180deg, #07030c 0%, #0b0715 58%, #13091f 100%);
@@ -23,16 +25,30 @@ html {
 
 body {
     min-height: 100vh;
+    max-width: 100%;
+    overflow-x: clip;
     background: transparent;
     color: #f0e9ff;
 }
 
 #__docusaurus {
     min-height: 100vh;
+    overflow-x: clip;
 }
 
 .main-wrapper {
     background: transparent;
+    overflow-x: clip;
+}
+
+@supports not (overflow: clip) {
+
+    html,
+    body,
+    #__docusaurus,
+    .main-wrapper {
+        overflow-x: hidden;
+    }
 }
 
 .navbar {
