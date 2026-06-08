@@ -81,7 +81,7 @@ const config = {
         },
     ],
     themeConfig: {
-        image: 'img/next-banner.png',
+        image: 'img/next-banner-v2.png',
         docs: {
             sidebar: {
                 autoCollapseCategories: true,
