@@ -47,7 +47,7 @@ const config = {
     ],
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
-    favicon: 'img/next-small.png',
+    favicon: 'img/next-fav.png',
     organizationName: 'next-guild',
     projectName: 'next-guild.github.io',
     presets: [
