@@ -394,5 +394,35 @@
   },
   "home.featured.derv.description": {
     "message": "Introduit un dervish IAU pour des spikes plus rapides, du 360/cave on spawn et des runs en 15-16 min."
+  },
+  "about.meta.title": {
+    "message": "A propos de Next"
+  },
+  "about.meta.description": {
+    "message": "Next est une guilde internationale de speed clear DoA."
+  },
+  "about.title": {
+    "message": "A propos de la guilde"
+  },
+  "about.lead": {
+    "message": "Next est une guilde internationale de DoA SC avec pas mal de frenchies."
+  },
+  "about.schedule": {
+    "message": "Nous jouons principalement en DoA 6-0, et les runs sont generalement formes vers 20:30 CET."
+  },
+  "about.recruitment": {
+    "message": "Nous ne recrutons pas de nouveaux joueurs. Pour nous rejoindre, il faut d'abord etre passe par un Discord teach."
+  },
+  "about.cape.alt": {
+    "message": "Cape de la guilde Next"
+  },
+  "about.roster.aria": {
+    "message": "Roster de la guilde"
+  },
+  "about.leaders": {
+    "message": "Leaders"
+  },
+  "about.officers": {
+    "message": "Officiers"
   }
 }

@@ -51,6 +51,17 @@ footer {
     color: #d7c8ff;
 }
 
+.mermaidTooltip {
+    position: fixed !important;
+    max-width: min(14rem, calc(100vw - 1rem)) !important;
+    overflow-wrap: break-word;
+    pointer-events: none;
+}
+
+.mermaidTooltip[style*='opacity: 0'] {
+    visibility: hidden;
+}
+
 .footer__title {
     color: #fff7df;
 }

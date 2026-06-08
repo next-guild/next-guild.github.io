@@ -98,6 +98,11 @@ const config = {
             },
             items: [
                 {
+                    to: '/about',
+                    label: 'About',
+                    position: 'right',
+                },
+                {
                     href: 'https://discord.gg/QDZX5ATnaH',
                     label: 'Discord',
                     position: 'right',

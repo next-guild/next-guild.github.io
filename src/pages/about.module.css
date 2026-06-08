@@ -1,0 +1,118 @@
+.page {
+    min-height: calc(100vh - var(--ifm-navbar-height));
+    padding: 64px 24px;
+    background: radial-gradient(circle at 15% 10%, rgba(206, 92, 255, 0.18), transparent 28rem),
+        radial-gradient(circle at 88% 22%, rgba(166, 234, 213, 0.12), transparent 24rem);
+}
+
+.hero,
+.roster {
+    width: min(1080px, 100%);
+    margin: 0 auto;
+}
+
+.hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(14rem, 22rem);
+    align-items: center;
+    gap: 40px;
+}
+
+.copy h1 {
+    margin: 0 0 18px;
+    color: #fff7df;
+    font-size: clamp(2.4rem, 5vw, 4.5rem);
+    line-height: 1.02;
+}
+
+.eyebrow {
+    margin: 0 0 12px;
+    color: #d9a2ff;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+}
+
+.lead {
+    max-width: 46rem;
+    margin: 0 0 24px;
+    color: #e8d9ff;
+    font-size: 1.2rem;
+}
+
+.notes {
+    display: grid;
+    gap: 12px;
+    max-width: 50rem;
+}
+
+.notes p {
+    margin: 0;
+    padding: 16px 18px;
+    border: 1px solid rgba(166, 234, 213, 0.16);
+    border-radius: 8px;
+    background: rgba(16, 8, 28, 0.68);
+    color: #d4c3ff;
+}
+
+.capeFrame {
+    margin: 0;
+    padding: 24px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    background: rgba(16, 8, 28, 0.72);
+    box-shadow: 0 22px 60px rgba(47, 0, 79, 0.22);
+}
+
+.capeFrame img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.roster {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px;
+    margin-top: 42px;
+}
+
+.rosterGroup {
+    padding: 22px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    background: rgba(16, 8, 28, 0.72);
+}
+
+.rosterGroup h2 {
+    margin: 0 0 14px;
+    color: #ffb1ff;
+    font-size: 1.2rem;
+}
+
+.rosterGroup ul {
+    display: grid;
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.rosterGroup li {
+    color: #fff7df;
+}
+
+@media (max-width: 760px) {
+    .page {
+        padding: 42px 16px;
+    }
+
+    .hero,
+    .roster {
+        grid-template-columns: 1fr;
+    }
+
+    .capeFrame {
+        width: min(18rem, 100%);
+        justify-self: center;
+    }
+}
