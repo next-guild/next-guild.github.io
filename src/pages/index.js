@@ -112,7 +112,7 @@ function Home() {
                         </span>
                     </Link>
 
-                    <Link className={`${styles.pathCard} ${styles.pathCardTeach}`} to="/tactics/4-mesmers-3-3">
+                    <Link className={`${styles.pathCard} ${styles.pathCardTeach}`} to="/tactics/start-here">
                         <span className={styles.pathBadge}>
                             <Translate id="home.teach.badge">Beginner-friendly</Translate>
                         </span>
