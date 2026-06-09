@@ -54,7 +54,7 @@ Take a look at the fundamentals page before your first run [here](/tactics/funda
 
 <a className="discord-link" href="https://discord.gg/3Txr4x6" target="_blank" rel="noopener noreferrer">
   <span className="discord-link__icon" aria-hidden="true"></span>
-  <span className="discord-link__label">International teaching discord</span>
+  <span className="discord-link__label">Inter teaching discord</span>
 </a>
 
 ## Role progression

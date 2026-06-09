@@ -41,6 +41,12 @@ body {
     overflow-x: clip;
 }
 
+body.home-page .main-wrapper {
+    background: radial-gradient(circle at 18% 20%, rgba(139, 54, 255, 0.24), transparent 24rem),
+        radial-gradient(circle at 82% 16%, rgba(82, 132, 255, 0.16), transparent 28rem),
+        linear-gradient(180deg, #040208 0%, #08040f 48%, #05020a 100%);
+}
+
 @supports not (overflow: clip) {
 
     html,

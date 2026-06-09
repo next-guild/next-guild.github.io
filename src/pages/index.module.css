@@ -1,235 +1,432 @@
-.hero {
-    min-height: max(720px, 100vh);
-    box-sizing: border-box;
-    padding: 48px 24px;
-    background: radial-gradient(circle at top left, rgba(204, 102, 255, 0.25), transparent 24%),
-        radial-gradient(circle at bottom right, rgba(85, 0, 170, 0.32), transparent 28%),
-        linear-gradient(180deg, #05030b 0%, #090611 65%, #110b1b 100%);
+.home {
     position: relative;
+    isolation: isolate;
+    flex: 1 0 auto;
+    min-height: 0;
     overflow: hidden;
-    color: white;
+    padding: 30px 24px 28px;
+    background: radial-gradient(circle at 18% 20%, rgba(139, 54, 255, 0.24), transparent 24rem),
+        radial-gradient(circle at 82% 16%, rgba(82, 132, 255, 0.16), transparent 28rem),
+        linear-gradient(180deg, #040208 0%, #08040f 48%, #05020a 100%);
+    color: #ffffff;
 }
 
-.hero::before {
+.home::before {
     content: '';
     position: absolute;
     inset: 0;
-    z-index: 1;
-    pointer-events: none;
-    background: linear-gradient(90deg, rgba(5, 3, 11, 0.94) 0%, rgba(5, 3, 11, 0.76) 34%, rgba(5, 3, 11, 0.2) 72%, rgba(5, 3, 11, 0.58) 100%);
+    z-index: -3;
+    background: linear-gradient(90deg, rgba(4, 2, 8, 0.92) 0%, rgba(4, 2, 8, 0.55) 28%, rgba(4, 2, 8, 0.55) 72%, rgba(4, 2, 8, 0.9) 100%);
 }
 
-.heroMargonites {
+.home::after {
+    content: '';
     position: absolute;
-    right: max(-6rem, calc(-10vw + 100px));
-    bottom: -3rem;
-    z-index: 0;
-    width: min(82rem, 76vw);
+    right: -16vw;
+    bottom: -8rem;
+    left: -16vw;
+    z-index: -1;
+    height: min(56rem, 82vw);
+    background: radial-gradient(circle at 16% 78%, rgba(178, 86, 255, 0.24), transparent 29rem),
+        radial-gradient(circle at 84% 78%, rgba(128, 90, 255, 0.22), transparent 29rem),
+        radial-gradient(circle at 50% 82%, rgba(199, 125, 255, 0.14), transparent 38rem);
+    pointer-events: none;
+}
+
+.margoLeft,
+.margoRight {
+    position: absolute;
+    z-index: -2;
+    top: auto;
+    bottom: 24rem;
+    width: auto;
+    height: min(38rem, 58vw);
     max-width: none;
-    max-height: 92vh;
+    opacity: 0.58;
     object-fit: contain;
-    opacity: 0.78;
+    object-position: bottom center;
     pointer-events: none;
     user-select: none;
-    filter: drop-shadow(0 0 34px rgba(188, 87, 255, 0.38));
+    filter: drop-shadow(0 0 42px rgba(158, 71, 255, 0.36));
 }
 
-.heroContent {
-    max-width: 1200px;
+.margoLeft {
+    left: max(-7rem, calc(50% - 50rem));
+}
+
+.margoRight {
+    right: max(-7rem, calc(50% - 50rem));
+}
+
+.hero,
+.pathGrid,
+.resourceGrid {
+    width: min(1180px, 100%);
     margin: 0 auto;
+}
+
+.hero {
+    display: grid;
+    justify-items: center;
+    padding: 10px 0 24px;
+    text-align: center;
+}
+
+.heroMark {
+    width: 2rem;
+    margin-bottom: 10px;
+    opacity: 0.86;
+}
+
+.kicker,
+.prompt,
+.pathSubtitle {
+    color: #c77dff;
+    font-weight: 800;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+}
+
+.kicker {
+    margin: 0 0 10px;
+    font-size: 0.78rem;
+}
+
+.heroLogo {
+    width: min(22rem, 78vw);
+    margin-bottom: 10px;
+    filter: drop-shadow(0 0 28px rgba(177, 82, 255, 0.36));
+}
+
+.hero h1 {
+    margin: 0 0 12px;
+    color: #f7e8ff;
+    font-size: clamp(1.45rem, 3vw, 2.25rem);
+    line-height: 1.15;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.hero p:not(.kicker) {
+    max-width: 46rem;
+    margin: 0;
+    color: #dfd5ef;
+    font-size: 1.05rem;
+}
+
+.prompt {
+    margin-top: 18px;
+    font-size: 0.82rem;
+}
+
+.prompt::after {
+    content: '';
+    display: block;
+    width: 0.9rem;
+    height: 0.9rem;
+    margin: 8px auto 0;
+    border-right: 3px solid currentColor;
+    border-bottom: 3px solid currentColor;
+    transform: rotate(45deg);
+}
+
+.pathGrid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px;
+}
+
+.pathCard {
+    position: relative;
+    display: grid;
+    min-height: 22.5rem;
+    align-content: start;
+    overflow: hidden;
+    border: 1px solid rgba(199, 125, 255, 0.32);
+    border-radius: 14px;
+    padding: 24px;
+    background: rgba(12, 7, 20, 0.82);
+    color: #ffffff;
+    text-decoration: none;
+    box-shadow: 0 24px 80px rgba(0, 0, 0, 0.28);
+    transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
+}
+
+.pathCard::before,
+.pathCard::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+}
+
+.pathCard::before {
+    z-index: 0;
+    opacity: 0.42;
+    background-position: center right;
+    background-size: cover;
+}
+
+.pathCard::after {
+    z-index: 1;
+    background: linear-gradient(90deg, rgba(6, 3, 11, 0.96) 0%, rgba(6, 3, 11, 0.86) 48%, rgba(6, 3, 11, 0.3) 100%);
+}
+
+.pathCard>* {
     position: relative;
     z-index: 2;
 }
 
-.subhead {
-    color: #d9a2ff;
-    letter-spacing: 0.3em;
-    text-transform: uppercase;
-    margin-bottom: 18px;
-}
-
-.title {
-    font-size: clamp(3rem, 5vw, 5rem);
-    line-height: 1.02;
-    margin: 0 0 18px;
-    text-shadow: 0 0 20px rgba(203, 110, 255, 0.32);
-}
-
-.tagline {
-    font-size: 1.2rem;
-    max-width: 780px;
-    margin-bottom: 32px;
-    color: #cbb1ff;
-}
-
-.featureGrid {
-    display: grid;
-    gap: 16px;
-}
-
-.resourceSection {
-    display: grid;
-    grid-template-columns: minmax(0, 1.45fr) minmax(16rem, 0.65fr);
-    gap: 16px;
-}
-
-.discordPanel,
-.referencePanel,
-.featureCard {
-    padding: 20px;
-    border-radius: 16px;
-    border: 1px solid rgba(255, 255, 255, 0.08);
-    background: rgba(16, 8, 28, 0.72);
-    color: white;
-    box-shadow: 0 16px 50px rgba(47, 0, 79, 0.22);
-    transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
-}
-
-.featureCard {
-    display: block;
+.pathCard:hover,
+.pathCard:focus-visible {
+    transform: translateY(-4px);
+    border-color: rgba(217, 162, 255, 0.72);
+    color: #ffffff;
     text-decoration: none;
 }
 
-.discordPanel,
-.referencePanel {
-    backdrop-filter: blur(8px);
+.pathCard li::before {
+    color: #c77dff;
 }
 
-.panelHeader {
+.pathCardTeach:hover,
+.pathCardTeach:focus-visible {
+    border-color: rgba(120, 166, 255, 0.78);
+}
+
+.pathCardAdvanced::before {
+    opacity: 0.64;
+    background-image: url('/img/next-tactics.jpg');
+}
+
+.pathCardTeach {
+    border-color: rgba(105, 149, 255, 0.34);
+}
+
+.pathCardTeach::before {
+    opacity: 0.68;
+    background-image: url('/img/teach-tactics.jpg');
+}
+
+.pathCardTeach .pathBadge {
+    background: rgba(92, 136, 255, 0.14);
+    color: #a9c4ff;
+}
+
+.pathCardTeach .pathSubtitle {
+    color: #78a6ff;
+}
+
+.pathCardTeach li::before {
+    color: #78a6ff;
+}
+
+.pathBadge {
+    display: inline-flex;
+    align-items: center;
+    width: fit-content;
+    margin-bottom: 16px;
+    border-radius: 999px;
+    padding: 0.28rem 0.62rem;
+    background: rgba(199, 125, 255, 0.13);
+    color: #f0dcff;
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+
+.pathBadge img {
+    width: 1.05rem;
+    margin-right: 0.42rem;
+}
+
+.pathCard h2 {
+    margin: 0;
+    color: #ffffff;
+    font-size: clamp(2rem, 4vw, 3.2rem);
+    line-height: 1;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.pathSubtitle {
+    margin: 0.55rem 0 1rem;
+    font-size: 0.78rem;
+}
+
+.pathCard p:not(.pathSubtitle) {
+    max-width: 28rem;
+    margin: 0 0 0.85rem;
+    color: #e2d8f0;
+}
+
+.pathCard ul {
+    display: grid;
+    gap: 0.42rem;
+    margin: 0 0 1rem;
+    padding: 0;
+    list-style: none;
+}
+
+.pathCard li {
     display: flex;
     align-items: center;
-    gap: 14px;
-    margin-bottom: 16px;
+    min-height: 1.55rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+    color: #f9f3ff;
+    font-weight: 750;
 }
 
-.panelIcon {
-    display: inline-flex;
+.pathCard li::before {
+    content: '';
     flex: 0 0 auto;
+    width: 1rem;
+    height: 1rem;
+    margin-right: 0.6rem;
+    background: currentColor;
+    mask: url('/img/logo-small.png') center / contain no-repeat;
+}
+
+.pathAction {
+    align-self: end;
+    display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+    margin-top: auto;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+    padding: 0.74rem 0.9rem;
+    background: linear-gradient(135deg, rgba(136, 48, 210, 0.78), rgba(78, 34, 132, 0.92));
+    color: #ffffff;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+
+.pathAction::after {
+    content: '>';
+    font-size: 1.25rem;
+}
+
+.pathCardTeach .pathAction {
+    background: linear-gradient(135deg, rgba(48, 91, 196, 0.78), rgba(34, 51, 132, 0.92));
+}
+
+.resourceGrid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 14px;
+    margin-top: 14px;
+}
+
+.resourceCard {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    gap: 14px;
+    align-items: start;
+    min-height: 7rem;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 16px;
+    background: rgba(10, 5, 18, 0.72);
+    color: #ffffff;
+    text-decoration: none;
+    transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
+}
+
+.resourceCard:hover,
+.resourceCard:focus-visible {
+    transform: translateY(-3px);
+    border-color: rgba(199, 125, 255, 0.55);
+    background: rgba(18, 8, 32, 0.82);
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.resourceIcon {
+    display: inline-flex;
     width: 2.3rem;
     height: 2.3rem;
-    padding: 0.45rem;
-    border-radius: 10px;
-    background: rgba(166, 234, 213, 0.1);
-    color: #a6ead5;
+    color: #a96cff;
 }
 
-.panelIcon svg {
-    display: block;
+.resourceIcon svg {
     width: 100%;
     height: 100%;
 }
 
-.panelHeader h2,
-.panelHeader p {
-    margin: 0;
+.resourceCard strong,
+.resourceCard span span,
+.resourceCard em {
+    display: block;
 }
 
-.panelHeader h2 {
-    color: #ffb1ff;
-    font-size: 1.15rem;
-}
-
-.panelHeader p {
-    color: #d4c3ff;
+.resourceCard strong {
+    color: #d9a2ff;
     font-size: 0.92rem;
+    text-transform: uppercase;
 }
 
-.discordList,
-.externalList {
-    display: grid;
-    gap: 8px;
+.resourceCard span span {
+    margin-top: 0.35rem;
+    color: #d9d0e8;
+    font-size: 0.9rem;
 }
 
-.discordLink,
-.externalLink {
-    display: grid;
-    gap: 2px;
-    padding: 10px 12px;
-    border: 1px solid rgba(166, 234, 213, 0.14);
-    border-radius: 10px;
-    background: rgba(166, 234, 213, 0.06);
-    color: #fff7df;
-    text-decoration: none;
-    transition: border-color 0.2s ease, background 0.2s ease;
+.resourceCard em {
+    margin-top: 0.65rem;
+    color: #b984ff;
+    font-style: normal;
+    font-weight: 800;
 }
 
-.discordLink:hover,
-.discordLink:focus-visible,
-.externalLink:hover,
-.externalLink:focus-visible {
-    border-color: rgba(255, 209, 102, 0.46);
-    background: rgba(255, 209, 102, 0.1);
-    color: #ffffff;
-    text-decoration: none;
-}
+@media (max-width: 996px) {
 
-.discordLink strong,
-.externalLink strong {
-    font-size: 0.95rem;
-}
-
-.discordLink span,
-.externalLink span {
-    color: #d4c3ff;
-    font-size: 0.82rem;
-}
-
-.featureCard:hover {
-    transform: translateY(-4px);
-    border-color: rgba(191, 90, 255, 0.56);
-    background: rgba(26, 12, 46, 0.88);
-    color: #ffffff;
-}
-
-.featureCard h3 {
-    margin: 0 0 12px;
-    color: #ffb1ff;
-}
-
-.featureCard p {
-    margin: 0;
-    color: #d4c3ff;
-}
-
-.featureSection {
-    margin-top: 34px;
-}
-
-.featureSection h2 {
-    margin-bottom: 18px;
-}
-
-.glowLayer {
-    position: absolute;
-    inset: 0;
-    z-index: 1;
-    pointer-events: none;
-    background: radial-gradient(circle at center, rgba(147, 72, 255, 0.12), transparent 28%);
-}
-
-@media (max-width: 700px) {
-    .hero {
-        height: auto;
-        min-height: 100vh;
-        padding: 40px 16px;
+    .margoLeft,
+    .margoRight {
+        bottom: 24rem;
+        height: 30rem;
+        width: auto;
+        opacity: 0.26;
     }
 
-    .hero::before {
-        background: linear-gradient(180deg, rgba(5, 3, 11, 0.86) 0%, rgba(5, 3, 11, 0.9) 58%, rgba(5, 3, 11, 0.72) 100%);
-    }
-
-    .heroMargonites {
-        right: -13rem;
-        bottom: auto;
-        top: 1.5rem;
-        width: 45rem;
-        max-height: 34rem;
-        opacity: 0.36;
-    }
-
-    .resourceSection {
+    .pathGrid,
+    .resourceGrid {
         grid-template-columns: 1fr;
+    }
+
+    .pathCard {
+        min-height: 0;
+    }
+}
+
+@media (max-width: 640px) {
+    .home {
+        padding: 30px 16px 42px;
+    }
+
+    .margoLeft {
+        left: -11rem;
+    }
+
+    .margoRight {
+        right: -11rem;
+    }
+
+    .hero {
+        padding-top: 12px;
+    }
+
+    .hero h1 {
+        letter-spacing: 0.06em;
+    }
+
+    .pathCard {
+        padding: 22px;
+    }
+
+    .pathAction {
+        font-size: 0.82rem;
     }
 }

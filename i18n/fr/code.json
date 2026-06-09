@@ -359,6 +359,126 @@
   "home.hero.title": {
     "message": "Tactiques speed clear DoA"
   },
+  "home.hero.kicker": {
+    "message": "Bienvenue chez"
+  },
+  "home.hero.prompt": {
+    "message": "Choisissez votre parcours"
+  },
+  "home.paths.aria": {
+    "message": "Parcours principaux"
+  },
+  "home.advanced.badge": {
+    "message": "Tactiques avancées"
+  },
+  "home.advanced.title": {
+    "message": "Next Guild"
+  },
+  "home.advanced.subtitle": {
+    "message": "Optimisation et performance"
+  },
+  "home.advanced.description": {
+    "message": "Tactiques avancées et optimisations pour des runs de guilde pratiques et efficaces."
+  },
+  "home.advanced.cta": {
+    "message": "Accéder aux tactiques Next"
+  },
+  "home.teach.badge": {
+    "message": "Apprendre et débuter"
+  },
+  "home.teach.title": {
+    "message": "Teaching"
+  },
+  "home.teach.subtitle": {
+    "message": "Apprendre et progresser"
+  },
+  "home.teach.description": {
+    "message": "Explications accessibles, rôles 3-3, fundamentals et progression des rôles."
+  },
+  "home.teach.cta": {
+    "message": "Commencer à apprendre"
+  },
+  "home.teach.item.beginner": {
+    "message": "Parcours 3-3 débutant"
+  },
+  "home.teach.item.guides": {
+    "message": "Guides et explications"
+  },
+  "home.teach.item.progression": {
+    "message": "Progression des rôles"
+  },
+  "home.teach.item.resources": {
+    "message": "Ressources teaching"
+  },
+  "home.resource.discord.title": {
+    "message": "Discords"
+  },
+  "home.resource.discord.description": {
+    "message": "Rejoignez la guilde et les communautés teach."
+  },
+  "home.resource.discord.cta": {
+    "message": "Rejoindre Discord"
+  },
+  "home.resource.nextDiscord.title": {
+    "message": "Next Discord"
+  },
+  "home.resource.nextDiscord.description": {
+    "message": "Runs de guilde et communauté Next."
+  },
+  "home.resource.nextDiscord.cta": {
+    "message": "Rejoindre Next"
+  },
+  "home.resource.frenchTeach.title": {
+    "message": "Discord teach français"
+  },
+  "home.resource.frenchTeach.description": {
+    "message": "Runs d'apprentissage en français et aide débutant."
+  },
+  "home.resource.frenchTeach.cta": {
+    "message": "Rejoindre Teach FR"
+  },
+  "home.resource.internationalTeach.title": {
+    "message": "Discord teach international"
+  },
+  "home.resource.internationalTeach.description": {
+    "message": "Runs d'apprentissage internationaux et progression."
+  },
+  "home.resource.internationalTeach.cta": {
+    "message": "Rejoindre Teach"
+  },
+  "home.resource.references.title": {
+    "message": "Références"
+  },
+  "home.resource.references.description": {
+    "message": "Concepts, glossaire et notes pratiques."
+  },
+  "home.resource.references.cta": {
+    "message": "Lire les références"
+  },
+  "home.resource.records.title": {
+    "message": "Records"
+  },
+  "home.resource.records.description": {
+    "message": "Records speed clear et soumissions."
+  },
+  "home.resource.records.cta": {
+    "message": "Voir les records"
+  },
+  "home.resource.wiki.title": {
+    "message": "Wiki"
+  },
+  "home.resource.wiki.description": {
+    "message": "Wiki général du speed clear Guild Wars."
+  },
+  "home.resource.wiki.cta": {
+    "message": "Ouvrir le wiki"
+  },
+  "home.meta.title": {
+    "message": "Tactiques speed clear DoA"
+  },
+  "home.meta.description": {
+    "message": "Ressources pour commencer votre parcours en speed clear DoA."
+  },
   "home.hero.tagline": {
     "message": "Bienvenue ! Vous trouverez ici des ressources pour commencer votre parcours en speed clear DoA."
   },

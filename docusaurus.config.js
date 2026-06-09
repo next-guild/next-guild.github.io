@@ -40,14 +40,14 @@ const config = {
             tagName: 'link',
             attributes: {
                 rel: 'preload',
-                href: '/img/next_g.png',
+                href: '/img/logo-small.png',
                 as: 'image',
             },
         },
     ],
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
-    favicon: 'img/next-fav.png',
+    favicon: 'img/logo-small.png',
     organizationName: 'next-guild',
     projectName: 'next-guild.github.io',
     presets: [
@@ -95,7 +95,7 @@ const config = {
         navbar: {
             logo: {
                 alt: 'Guild logo',
-                src: 'img/next_g.png',
+                src: 'img/logo-wide.png',
             },
             items: [
                 {
