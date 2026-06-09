@@ -99,7 +99,7 @@ Moins de health donne plus de survivabilité à Jadoth. Non craftable via inscri
 [gear name="Meilleur bouclier standard"]
 [weapon type="Shield" rarity=gold name="Shield of Devotion" stat="Armor: 16 (Requires 9 Tactics)"]
 [mod effect="Armor +10 (vs Demons)"][/mod]
-[mod effect="+45 Health (while Enchanted)"][/mod]
+[mod effect="Health +45 (while Enchanted)"][/mod]
 [/weapon]
 [/gear]
 Vous serez toujours enchanté dans les situations où vous avez besoin de health, donc ce bouclier est légèrement plus optimal que le bouclier green de la black beast. Non craftable via inscriptions.

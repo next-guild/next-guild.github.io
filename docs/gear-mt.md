@@ -99,7 +99,7 @@ Less health gives more survability at Jadoth. Not available to craft via inscrip
 [gear name="Better standard shield"]
 [weapon type="Shield" rarity=gold name="Shield of Devotion" stat="Armor: 16 (Requires 9 Tactics)"]
 [mod effect="Armor +10 (vs Demons)"][/mod]
-[mod effect="+45 Health (while Enchanted)"][/mod]
+[mod effect="Health +45 (while Enchanted)"][/mod]
 [/weapon]
 [/gear]
 You will always be enchanted in situations where you need health so this is slightly more optimal than the green black beast shield. Not available to craft via inscriptions.
