@@ -99,6 +99,10 @@ const config = {
             },
             items: [
                 {
+                    type: 'search',
+                    position: 'right',
+                },
+                {
                     to: '/about',
                     label: 'About',
                     position: 'right',
