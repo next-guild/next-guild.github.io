@@ -339,7 +339,7 @@
     "message": "Runs d'apprentissage en français"
   },
   "home.discord.international.label": {
-    "message": "Discord teach international"
+    "message": "Discord teach inter"
   },
   "home.discord.international.description": {
     "message": "Runs d'apprentissage internationaux"
@@ -438,7 +438,7 @@
     "message": "Rejoindre Teach FR"
   },
   "home.resource.internationalTeach.title": {
-    "message": "Discord teach international"
+    "message": "Discord teach inter"
   },
   "home.resource.internationalTeach.description": {
     "message": "Runs d'apprentissage internationaux et progression."
