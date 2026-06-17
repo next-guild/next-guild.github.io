@@ -34,11 +34,6 @@ Lisez ces pages dans cet ordre :
 
 ## Discords Teach
 
-<a className="discord-link" href="https://discord.gg/52ZyPCejAn" target="_blank" rel="noreferrer">
-  <span className="discord-link__icon" aria-hidden="true"></span>
-  <span className="discord-link__label">Discord teach français</span>
-</a>
-
 <a className="discord-link" href="https://discord.gg/3Txr4x6" target="_blank" rel="noreferrer">
   <span className="discord-link__icon" aria-hidden="true"></span>
   <span className="discord-link__label">Discord teach international</span>

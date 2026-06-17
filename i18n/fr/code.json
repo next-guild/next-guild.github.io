@@ -332,12 +332,6 @@
   "home.discord.next.description": {
     "message": "Runs de guilde et communauté"
   },
-  "home.discord.french.label": {
-    "message": "Discord teach français"
-  },
-  "home.discord.french.description": {
-    "message": "Runs d'apprentissage en français"
-  },
   "home.discord.international.label": {
     "message": "Discord teach inter"
   },
@@ -427,15 +421,6 @@
   },
   "home.resource.nextDiscord.cta": {
     "message": "Rejoindre Next"
-  },
-  "home.resource.frenchTeach.title": {
-    "message": "Discord teach français"
-  },
-  "home.resource.frenchTeach.description": {
-    "message": "Runs d'apprentissage en français et aide débutant."
-  },
-  "home.resource.frenchTeach.cta": {
-    "message": "Rejoindre Teach FR"
   },
   "home.resource.internationalTeach.title": {
     "message": "Discord teach inter"

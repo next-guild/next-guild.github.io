@@ -47,11 +47,6 @@ Votre premier rôle sera [Empathy], qui est le plus simple à apprendre.
 Assurez-vous d'avoir le gear, les pcons et les titres requis depuis la page [Mesmer gear](/tactics/gear/mesmer), puis demandez un gear check sur ces discords.
 Lisez aussi la page des fondamentaux avant votre première run [ici](/tactics/fundamentals).
 
-<a className="discord-link" href="https://discord.gg/52ZyPCejAn" target="_blank" rel="noopener noreferrer">
-  <span className="discord-link__icon" aria-hidden="true"></span>
-  <span className="discord-link__label">Discord teach français</span>
-</a>
-
 <a className="discord-link" href="https://discord.gg/3Txr4x6" target="_blank" rel="noopener noreferrer">
   <span className="discord-link__icon" aria-hidden="true"></span>
   <span className="discord-link__label">Discord teach international</span>

@@ -39,13 +39,6 @@ function Home() {
             icon: <DiscordIcon />,
         },
         {
-            title: translate({ id: 'home.resource.frenchTeach.title', message: 'French Teach Discord' }),
-            description: translate({ id: 'home.resource.frenchTeach.description', message: 'French teaching runs and beginner support.' }),
-            href: 'https://discord.gg/52ZyPCejAn',
-            label: translate({ id: 'home.resource.frenchTeach.cta', message: 'Join Teach FR' }),
-            icon: <DiscordIcon />,
-        },
-        {
             title: translate({ id: 'home.resource.internationalTeach.title', message: 'Inter Teach Discord' }),
             description: translate({ id: 'home.resource.internationalTeach.description', message: 'International teaching runs and progression.' }),
             href: 'https://discord.gg/3Txr4x6',
