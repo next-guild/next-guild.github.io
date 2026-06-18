@@ -12,6 +12,8 @@ Same build as 6-0, with cleaner foundry to city recall and split requirements.
 
 [MT;OwFkUld3HPakOzBENJuTDkNJCUnD]
 
+_Adjust the Tactics requirement depending on your shield requirement and any additional pcons used._
+
 Experienced MT sometimes use [Dash] instead of [Dark escape], trading survability for speed.
 
 ## Gear

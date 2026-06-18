@@ -12,6 +12,8 @@ Same build as 6-0, with faster city and Jadoth transitions.
 
 [TT;OwFkUld3HPa0BkODNZozEECEuTnD]
 
+_Adjust the Tactics requirement depending on your shield requirement and any additional pcons used._
+
 ## Gear
 
 Use the shared [TT gear](/tactics/gear/tt) page as the baseline.

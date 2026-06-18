@@ -12,6 +12,8 @@ Même build qu'en 6-0, avec un recall founderie vers city plus propre et des nou
 
 [MT;OwFkUld3HPakOzBENJuTDkNJCUnD]
 
+_Ajustez le niveau de Tactics selon le requirement du shield et les pcons supplémentaires utilisés._
+
 Les MT expérimentés utilisent parfois [Dash] à la place de [Dark escape], en échangeant de la survivabilité contre de la vitesse.
 
 ## Gear

@@ -12,6 +12,8 @@ Même build qu'en 6-0, avec des transitions city et Jadoth plus rapides.
 
 [TT;OwFkUld3HPa0BkODNZozEECEuTnD]
 
+_Ajustez le niveau de Tactics selon le requirement du shield et les pcons supplémentaires utilisés._
+
 ## Gear
 
 Utilisez la page partagée [TT gear](/tactics/gear/tt) comme base.

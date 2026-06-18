@@ -47,7 +47,11 @@ sidebar_label: 6-0
 
 [bar MT;OwFkUld3HPakOzBENJuTDkNJCUnD]
 
+_Adjust the Tactics requirement depending on your shield requirement and any additional pcons used._
+
 [bar TT;OwFkUld3HPa0BkODNZozEECEuTnD]
+
+_Adjust the Tactics requirement depending on your shield requirement and any additional pcons used._
 
 ## Spiking guide
 
