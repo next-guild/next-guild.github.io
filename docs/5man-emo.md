@@ -22,7 +22,7 @@ Use the shared [Emo gear](/tactics/gear/emo) page as the baseline.
 
 - Use [Ebon Escape] over the hill, then go to the wave 1 spot.
 - Wait for the tank to [Recall] out and use [Balthazar's Spirit] on him.
-- Tank wave 3 and wave 8.
+- Tank wave 4 and wave 8.
 - Provide a [Recall] target for the tank, fully bond him, then go to rift with MeMo.
 
 ### Foundry
