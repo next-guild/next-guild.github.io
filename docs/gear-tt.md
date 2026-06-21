@@ -107,6 +107,14 @@ Useful when in dire need of energy when missing [Balthazar's Spirit].
 [/gear]
 Useful to tank titans without bonds.
 
+[gear name="Derv hill shield"]
+[weapon type="Shield" rarity=gold name="Shield of Devotion" stat="Armor: 16 (Requires 9 Tactics)"]
+[mod name="&quot;Not the face!&quot;" effect="Armor +10 (vs Blunt damage)"][/mod]
+[mod effect="Health +45 (while Enchanted)"][/mod]
+[/weapon]
+[/gear]
+Useful to tank the derv hill.
+
 [gear name="Better standard shield"]
 [weapon type="Shield" rarity=gold name="Shield of Devotion" stat="Armor: 16 (Requires 9 Tactics)"]
 [mod effect="Armor +10 (vs Demons)"][/mod]

@@ -58,6 +58,18 @@ module.exports = {
                         '5mez-city-tt',
                     ],
                 },
+                {
+                    type: 'category',
+                    label: '5 Man',
+                    link: { type: 'doc', id: '5man' },
+                    items: [
+                        '5man-ss',
+                        '5man-tk',
+                        '5man-memo',
+                        '5man-emo',
+                        '5man-tank',
+                    ],
+                },
                 '5-mesmers-veil-split',
                 '4-mesmers-iau-derv',
             ],
@@ -71,6 +83,8 @@ module.exports = {
                 'gear-tt',
                 'gear-emo',
                 'gear-ua',
+                'gear-necro',
+                'gear-ranger',
             ],
         },
         {
