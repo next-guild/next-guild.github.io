@@ -10,9 +10,9 @@ Necro damage and utility role for 5 Man.
 
 ## Build
 
-[SS;OAJUYsDbXsQ5BuQwBWC2kAAPHQHA]
+[SS;OAJUYsDbXsQWC5BuQwBQHPH2kxkA]
 
-_The missing skill slot can be either [Necrosis] or [Finish him!]._
+_You can also use [Necrosis] instead of [Finish him!]._
 
 ## Gear
 

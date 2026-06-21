@@ -21,9 +21,7 @@ sidebar_label: 5 Man
 
 ## Team build
 
-[bar SS;OAJUYsDbXsQ5BuQwBWC2kAAPHQHA]
-
-_The missing skill slot can be either [Necrosis] or [Finish him!]._
+[bar SS;OAJUYsDbXsQWC5BuQwBQHPH2kxkA]
 
 [bar TK;OQdTAYB/HaJ4Ew0Z6RuEBimszBA]
 

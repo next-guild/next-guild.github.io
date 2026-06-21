@@ -10,9 +10,9 @@ Rôle Necro de damage et d'utilitaire pour 5 Man.
 
 ## Build
 
-[SS;OAJUYsDbXsQ5BuQwBWC2kAAPHQHA]
+[SS;OAJUYsDbXsQWC5BuQwBQHPH2kxkA]
 
-_Le slot de skill manquant peut être [Necrosis] ou [Finish him!]._
+_Vous pouvez utiliser [Necrosis] au lieu de [Finish him!]._
 
 ## Équipement
 
