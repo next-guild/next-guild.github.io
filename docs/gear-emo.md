@@ -2,6 +2,7 @@
 id: gear-emo
 slug: gear/emo
 title: Emo Gear
+sidebar_label: Emo
 ---
 
 # Emo Gear

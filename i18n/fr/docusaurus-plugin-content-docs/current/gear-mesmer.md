@@ -1,16 +1,17 @@
 ---
 id: gear-mesmer
 slug: gear/mesmer
-title: Gear Mesmer
+title: Équipement Mesmer
+sidebar_label: Mesmer
 ---
 
-# Gear Mesmer
+# Équipement Mesmer
 
-Le gear mesmer se concentre sur l'augmentation du dps via les cooldowns et les temps de cast, avec un peu de gestion d'énergie.
+L'équipement mesmer se concentre sur l'augmentation du dps via les cooldowns et les temps de cast, avec un peu de gestion d'énergie.
 
-## Gear requis
+## Équipement requis
 
-[gear name="Gear standard"]
+[gear name="Équipement standard"]
 [armor piece="Headgear" rune="Rune of Superior Domination Magic +3 / Health -75" insignia="Radiant Insignia / +1 energy" rating=60 base="Domination Magic +1"]
 [armor piece="Chest" rune="Health +50" insignia="Radiant Insignia / +3 energy" rating=60]
 [armor piece="Hand" rune="Rune of Superior Fast Casting +3 / Health -75" insignia="Radiant Insignia / +1 energy" rating=60]
@@ -54,7 +55,7 @@ Utilisez-le quand vous êtes bas en énergie mais que vous devez tout de même r
 Particulièrement utile en Gloom pour le spike des darknesses.
 
 
-## Gear optionnel
+## Équipement optionnel
 
 
 [gear name="Variante energy management"]

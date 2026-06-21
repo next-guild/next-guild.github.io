@@ -12,9 +12,9 @@ MeMo apporte [Healing Seed], du damage mesmer et le support pour derv hill.
 
 [MeMo;OQNEAqwN+ioButpL4bw0LRxD]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Mesmer gear](/tactics/gear/mesmer) comme base.
+Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
 
 ## Notes
 

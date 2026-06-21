@@ -12,9 +12,9 @@ Même build qu'en 6-0, avec des responsabilités différentes pour recall en cit
 
 [Emo;OgNDwcb/S1C3MaRkEyDxDHE0lA]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Emo gear](/tactics/gear/emo) comme base.
+Utilisez la page partagée [équipement Emo](/tactics/gear/emo) comme base.
 
 ## Notes
 

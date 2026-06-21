@@ -14,9 +14,9 @@ Similaire à Empathy en 3-3, mais avec plus de responsabilités pendant le 6-0.
 
 Pour le start Gloom, remplacez [Heart of Shadow] par [Recall], car le TT vous aidera à faire le 6-0.
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Mesmer gear](/tactics/gear/mesmer) comme base.
+Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
 
 ## Titres
 

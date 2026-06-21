@@ -1,16 +1,17 @@
 ---
 id: gear-ranger
 slug: gear/ranger
-title: Ranger Gear
+title: Équipement Ranger
+sidebar_label: Ranger
 ---
 
-# Ranger Gear
+# Équipement Ranger
 
-Le gear Ranger se concentre sur la survivabilité tout en gardant les outils d'enchantement et de pull nécessaires aux tactiques avancées.
+L'équipement Ranger se concentre sur la survivabilité tout en gardant les outils d'enchantement et de pull nécessaires aux tactiques avancées.
 
-## Gear requis
+## Équipement requis
 
-[gear name="Standard gear"]
+[gear name="Équipement standard"]
 [armor piece="Headgear" rune="Rune of Superior Expertise +3 / Health -75" insignia="Blessed Insignia / Armor +10 while affected by an Enchantment spell" rating=70 base="Expertise +1"]
 [armor piece="Chest" rune="Rune of Superior Vigor / Health +50" insignia="Blessed Insignia / Armor +10 while affected by an Enchantment spell" rating=70]
 [armor piece="Hand" rune="Rune of Vitae / Health +10" insignia="Blessed Insignia / Armor +10 while affected by an Enchantment spell" rating=70]
@@ -57,7 +58,7 @@ Utilisez cette headpiece en Veil quand vous avez besoin de plus de health.
 
 Utilisez le flatbow pour pull les ennemis de loin.
 
-## Gear optionnel
+## Équipement optionnel
 
 [gear name="Jadoth shield"]
 [weapon type="Shield" rarity=gold name="Shield" stat="Armor: 16 (Requires 9 Tactics)"]

@@ -1,16 +1,17 @@
 ---
 id: gear-necro
 slug: gear/necro
-title: Necro Gear
+title: Équipement Necro
+sidebar_label: Necro
 ---
 
-# Necro Gear
+# Équipement Necro
 
-Le gear Necro suit la même logique que le gear mesmer, mais avec des requirements Curses et assez d'énergie pour garder des spikes confortables.
+L'équipement Necro suit la même logique que l'équipement mesmer, mais avec des requirements Curses et assez d'énergie pour garder des spikes confortables.
 
-## Gear requis
+## Équipement requis
 
-[gear name="Standard gear"]
+[gear name="Équipement standard"]
 [armor piece="Headgear" rune="Rune of Superior Curses +3 / Health -75" insignia="Radiant Insignia / +1 energy" rating=60 base="Curses +1"]
 [armor piece="Chest" rune="Rune of Superior Vigor / Health +50" insignia="Radiant Insignia / +3 energy" rating=60]
 [armor piece="Hand" rune="Rune of Superior Soul Reaping +3 / Health -75" insignia="Radiant Insignia / +1 energy" rating=60]

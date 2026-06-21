@@ -12,9 +12,9 @@ Même build qu'en 6-0, mais [Arcane Mimicry] devient important pour les spikes d
 
 [TK;OQdTAYB/HaJ4Ew0Z6JIImUuszBA]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Mesmer gear](/tactics/gear/mesmer) comme base.
+Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
 
 ## Notes
 

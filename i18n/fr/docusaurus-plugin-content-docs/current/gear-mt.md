@@ -1,16 +1,17 @@
 ---
 id: gear-mt
 slug: gear/mt
-title: Gear MT
+title: Équipement MT
+sidebar_label: MT
 ---
 
-# Gear MT
+# Équipement MT
 
-Le gear MT se concentre sur le tanking et la durée des enchantements, avec quelques éléments de gestion d'énergie.
+L'équipement MT se concentre sur le tanking et la durée des enchantements, avec quelques éléments de gestion d'énergie.
 
-## Gear requis
+## Équipement requis
 
-[gear name="Gear standard"]
+[gear name="Équipement standard"]
 [armor piece="Headgear" rune="Rune of Superior Shadow Arts +3 / Health -75" insignia="Blessed Insignia / Armor +10 while affected by an Enchantment spell" rating=60 base="Shadow Arts +1"]
 [armor piece="Chest" rune="Rune of Superior Vigor / Health +50" insignia="Blessed Insignia / Armor +10 while affected by an Enchantment spell" rating=60]
 [armor piece="Hand" rune="Rune of Life / Health +10" insignia="Blessed Insignia / Armor +10 while affected by an Enchantment spell" rating=60]
@@ -76,7 +77,7 @@ Utilisez-le pour pull les ennemis de loin.
 [/gear]
 Utilisez-la pour cacher votre énergie aux ennemis. Utile quand il vous manque [Balthazar's Spirit] et que des ennemis réduisent votre énergie à 0 avec des skills comme [Debilitating Shot].
 
-## Gear optionnel
+## Équipement optionnel
 
 [gear name="Staff high energy"]
 [weapon type="Staff" rarity=gold name="Insightful Staff of Enchanting" base="Energy +10" stat="Earth dmg: 11-22 (Requires 9 Earth magic)"]

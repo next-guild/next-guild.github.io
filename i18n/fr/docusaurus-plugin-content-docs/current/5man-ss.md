@@ -14,9 +14,9 @@ Rôle Necro de damage et d'utilitaire pour 5 Man.
 
 _Le slot de skill manquant peut être [Necrosis] ou [Finish him!]._
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Necro gear](/tactics/gear/necro) comme base.
+Utilisez la page partagée [équipement Necro](/tactics/gear/necro) comme base.
 
 ## Notes
 

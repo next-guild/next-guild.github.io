@@ -61,7 +61,7 @@ Utilisez cette section pour les techniques ciblées qui sont trop spécifiques p
 
 - Veil punit les blocks et evades, car chaque trigger inflige 50 damage.
 - Ne dodgez donc pas les projectiles pendant le pull.
-- Utilisez du low HP gear pour que vos seuils en pourcentage correspondent aux calculs de réduction de damage.
+- Utilisez de l'équipement low HP pour que vos seuils en pourcentage correspondent aux calculs de réduction de damage.
 - Si votre [Shroud of distress] n'est pas doublé, soit une réduction de damage de 15, restez autour de 300 HP.
 - Si votre [Shroud of distress] est doublé, soit une réduction de damage de 20, vous pouvez vous rapprocher de 400 HP+.
 - Le support de [Seed of life] n'est pas fiable, donc le build doit survivre à des périodes sans healing constant.

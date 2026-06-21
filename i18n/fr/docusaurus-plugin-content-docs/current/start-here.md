@@ -13,7 +13,7 @@ Si vous débutez en speed clear DoA, ne commencez pas par lire toutes les pages 
 
 Votre premier rôle sera généralement [Empathy](/tactics/4-mesmers-3-3/empathy).
 
-Empathy est le rôle mesmer le plus simple pour commencer, mais il faut quand même le bon build, le bon gear, les consommables et les titres requis. Avant votre première run, préparez la base de [Mesmer gear](/tactics/gear/mesmer), puis demandez un gear check dans un Discord teach.
+Empathy est le rôle mesmer le plus simple pour commencer, mais il faut quand même le bon build, le bon équipement, les consommables et les titres requis. Avant votre première run, préparez la base de [équipement Mesmer](/tactics/gear/mesmer), puis demandez un gear check dans un Discord teach.
 
 ## Que Lire En Premier
 
@@ -29,7 +29,7 @@ Lisez ces pages dans cet ordre :
 
 - Rejoignez un Discord teach.
 - Préparez le build Empathy.
-- Préparez le gear mesmer, les pcons et les titres requis.
+- Préparez l'équipement mesmer, les pcons et les titres requis.
 - Demandez un gear check avant de vous inscrire pour un run.
 
 ## Discords Teach

@@ -12,9 +12,9 @@ Rend la vie de tout le monde plus simple en réduisant les damage et en apportan
 
 [Emo;OgNDwcPPTaR3MkE1C0lyDxDHEA]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Emo gear](/tactics/gear/emo) comme base.
+Utilisez la page partagée [équipement Emo](/tactics/gear/emo) comme base.
 
 ## Notes
 

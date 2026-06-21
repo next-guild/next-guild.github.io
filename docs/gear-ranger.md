@@ -2,6 +2,7 @@
 id: gear-ranger
 slug: gear/ranger
 title: Ranger Gear
+sidebar_label: Ranger
 ---
 
 # Ranger Gear
@@ -108,4 +109,3 @@ Bring this only if you are doing Jadoth outer. Less health gives more survivabil
 [title name="Norn" rank="5"]
 [title name="Lightbringer" rank="8"]
 [/titles]
-

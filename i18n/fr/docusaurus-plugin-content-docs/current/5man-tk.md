@@ -12,9 +12,9 @@ TK gère cave, off-damage, snakes, city hill setup et tendrils.
 
 [TK;OQdTAYB/HaJ4Ew0Z6RuEBimszBA]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Mesmer gear](/tactics/gear/mesmer) comme base.
+Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
 
 [gear name="Derv hill armor"]
 [armor piece="Headgear" rune="Rune of Life / Health +10" insignia="Blessed Insignia / Armor +10 while affected by an Enchantment spell" rating=60 base="Fast Casting +1"]

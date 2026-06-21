@@ -1,16 +1,17 @@
 ---
 id: gear-tt
 slug: gear/tt
-title: Gear TT
+title: Équipement TT
+sidebar_label: TT
 ---
 
-# Gear TT
+# Équipement TT
 
-Le gear TT est similaire au gear MT, avec plus de focus sur la survivabilité puisque vous avez moins de filets de sécurité.
+L'équipement TT est similaire à l'équipement MT, avec plus de focus sur la survivabilité puisque vous avez moins de filets de sécurité.
 
-## Gear requis
+## Équipement requis
 
-[gear name="Gear standard"]
+[gear name="Équipement standard"]
 [armor piece="Headgear" rune="Rune of Superior Shadow Arts +3 / Health -75" insignia="Blessed Insignia / Armor +10 while affected by an Enchantment spell" rating=60 base="Shadow Arts +1"]
 [armor piece="Chest" rune="Rune of Superior Vigor / Health +50" insignia="Blessed Insignia / Armor +10 while affected by an Enchantment spell" rating=60]
 [armor piece="Hand" rune="Rune of Life / Health +10" insignia="Blessed Insignia / Armor +10 while affected by an Enchantment spell" rating=60]
@@ -67,7 +68,7 @@ Utilisez-le pour pull les ennemis de loin.
 [/gear]
 Utilisez-la pour cacher votre énergie aux ennemis. Utile pendant la première City ball sans [Balthazar's spirit] et quand vous pull des mobs loin de la snake en Foundry pendant que les rangers vous touchent avec [Debilitating Shot].
 
-## Gear optionnel
+## Équipement optionnel
 
 [gear name="Cave armor"]
 [armor piece="Headgear" rune="Rune of Superior Shadow Arts +3 / Health -75" insignia="Infiltrator Insignia / Armor +10 vs Physical damage / Armor +10 vs Piercing damage" rating=60 base="Shadow Arts +1"]

@@ -2,6 +2,7 @@
 id: gear-tt
 slug: gear/tt
 title: TT Gear
+sidebar_label: TT
 ---
 
 # TT Gear

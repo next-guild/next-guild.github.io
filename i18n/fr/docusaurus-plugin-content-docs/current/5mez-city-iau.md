@@ -12,9 +12,9 @@ Même build qu'en 6-0, avec plus de responsabilités sur le city split.
 
 [IAU;OQdTAYB/HaJ4Ew0Z6xmUukmEBCA]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Mesmer gear](/tactics/gear/mesmer) comme base.
+Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
 
 ## Notes
 

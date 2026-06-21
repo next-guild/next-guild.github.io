@@ -48,7 +48,7 @@ _Ajustez le niveau de Tactics selon le requirement du shield et les pcons suppl�
 
 Les teach discords vous aideront à apprendre les bases du rôle et du build.
 Votre premier rôle sera [Empathy], qui est le plus simple à apprendre.
-Assurez-vous d'avoir le gear, les pcons et les titres requis depuis la page [Mesmer gear](/tactics/gear/mesmer), puis demandez un gear check sur ces discords.
+Assurez-vous d'avoir l'équipement, les pcons et les titres requis depuis la page [équipement Mesmer](/tactics/gear/mesmer), puis demandez un gear check sur ces discords.
 Lisez aussi la page des fondamentaux avant votre première run [ici](/tactics/fundamentals).
 
 <a className="discord-link" href="https://discord.gg/3Txr4x6" target="_blank" rel="noopener noreferrer">

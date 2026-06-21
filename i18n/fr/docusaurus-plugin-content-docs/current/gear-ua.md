@@ -1,16 +1,17 @@
 ---
 id: gear-ua
 slug: gear/ua
-title: Gear UA
+title: Équipement UA
+sidebar_label: UA
 ---
 
-# Gear UA
+# Équipement UA
 
-Le gear UA se concentre sur la durée des enchantements et une grosse réserve d'énergie.
+L'équipement UA se concentre sur la durée des enchantements et une grosse réserve d'énergie.
 
-## Gear requis
+## Équipement requis
 
-[gear name="Gear standard"]
+[gear name="Équipement standard"]
 [armor piece="Headgear" rune="Rune of Superior Divine Favor +3 / Health -75" insignia="Radiant Insignia / +1 energy" rating=60 base="Divine Favor +1"]
 [armor piece="Chest" rune="Rune of Superior Vigor / Health +50" insignia="Radiant Insignia / +3 energy" rating=60]
 [armor piece="Hand" rune="Rune of Major Protection Prayers +2 / Health -35" insignia="Radiant Insignia / +1 energy" rating=60]
@@ -36,7 +37,7 @@ Le gear UA se concentre sur la durée des enchantements et une grosse réserve d
 [/gear]
 
 
-## Gear optionnel
+## Équipement optionnel
 
 [gear name="Set high energy"]
 [weapon type="Staff" rarity=gold name="Insightful Divine Staff of Enchanting" base="Energy +10" stat="Fire dmg: 11-22 (Requires 9 Divine Favor)"]

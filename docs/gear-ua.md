@@ -2,6 +2,7 @@
 id: gear-ua
 slug: gear/ua
 title: UA Gear
+sidebar_label: UA
 ---
 
 # UA Gear
@@ -100,4 +101,3 @@ You tank the last wave of the 360 as UA and can sometimes have trouble reaching 
 
 A high lightbringer title is not Required but do not forget to activate it at Chantry of secrets.
 Pick up quest rewards and bounties in DoA to quickly level it up.
-

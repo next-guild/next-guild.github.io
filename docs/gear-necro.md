@@ -2,6 +2,7 @@
 id: gear-necro
 slug: gear/necro
 title: Necro Gear
+sidebar_label: Necro
 ---
 
 # Necro Gear

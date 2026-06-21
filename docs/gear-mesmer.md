@@ -2,6 +2,7 @@
 id: gear-mesmer
 slug: gear/mesmer
 title: Mesmer Gear
+sidebar_label: Mesmer
 ---
 
 # Mesmer Gear

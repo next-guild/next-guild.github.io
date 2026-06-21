@@ -14,9 +14,9 @@ Main spiker et caller.
 
 Une fois à l'aise avec la gestion d'énergie, remplacez [Air of Superiority] par [Finish him!].
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Mesmer gear](/tactics/gear/mesmer) comme base.
+Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
 
 [cons name="Consommables additionnels requis"]
 [header]Pour aider à tuer les Waves 11 et 12 en gloom[/header]

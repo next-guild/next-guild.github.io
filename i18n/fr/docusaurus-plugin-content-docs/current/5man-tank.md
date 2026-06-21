@@ -12,9 +12,9 @@ Main tank pour 5 Man.
 
 [Tank;OgcTc588ZimUn5A6uU4ABC3pzBA]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Ranger gear](/tactics/gear/ranger) comme base.
+Utilisez la page partagée [équipement Ranger](/tactics/gear/ranger) comme base.
 
 ## Notes
 

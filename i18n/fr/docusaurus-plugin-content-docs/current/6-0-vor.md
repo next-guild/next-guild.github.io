@@ -12,9 +12,9 @@ Même rôle qu'en 3-3.
 
 [VoR;OQljAwCs5QxkuNCObAmOTP2k0lA]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Mesmer gear](/tactics/gear/mesmer) comme base.
+Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
 
 [cons name="Consommables additionnels requis"]
 [header]Pour aider à tuer les Waves 11 et 12 en gloom[/header]

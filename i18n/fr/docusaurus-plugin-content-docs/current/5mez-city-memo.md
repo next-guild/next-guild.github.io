@@ -12,9 +12,9 @@ MeMo remplace UA. Il ajoute plus de spiking power, mais la team perd la survivab
 
 [MeMo;OQNDAqwNS0lLBnAmO4UTP2kSEA]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Mesmer gear](/tactics/gear/mesmer) comme base.
+Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
 
 ## Notes
 

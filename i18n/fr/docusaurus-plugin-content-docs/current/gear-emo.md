@@ -1,16 +1,17 @@
 ---
 id: gear-emo
 slug: gear/emo
-title: Gear Emo
+title: Équipement Emo
+sidebar_label: Emo
 ---
 
-# Gear Emo
+# Équipement Emo
 
-Le gear Emo se concentre sur le temps de cast et la durée des enchantements.
+L'équipement Emo se concentre sur le temps de cast et la durée des enchantements.
 
-## Gear requis
+## Équipement requis
 
-[gear name="Gear standard"]
+[gear name="Équipement standard"]
 [armor piece="Headgear" rune="Rune of Superior Energy Storage +3 / Health -75" insignia="Radiant Insignia / +1 energy" rating=60 base="Energy Storage +1"]
 [armor piece="Chest" rune="Health +50" insignia="Radiant Insignia / +3 energy" rating=60]
 [armor piece="Hand" rune="Rune of Attunement / +2 energy" insignia="Radiant Insignia / +1 energy" rating=60]
@@ -25,7 +26,7 @@ Le gear Emo se concentre sur le temps de cast et la durée des enchantements.
 [/weapon]
 [/gear]
 
-## Gear optionnel
+## Équipement optionnel
 
 [gear name="Armor fuse pull"]
 [armor piece="Headgear" rune="Rune of Superior Energy Storage +3 / Health -75" insignia="Radiant Insignia / +1 energy" rating=7 base="Energy Storage +1"]

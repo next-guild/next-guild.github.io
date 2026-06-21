@@ -12,9 +12,9 @@ Gère la pression et le timing spécifiques au MLK.
 
 [MLK;OQhnAwBhAPEgRYIG0SwJgpz0DdJHwNlGAA]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Mesmer gear](/tactics/gear/mesmer) comme base.
+Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
 
 [cons name="Consommables additionnels recommandés"]
 [header]En cas d'over-aggro à derv hill[/header]

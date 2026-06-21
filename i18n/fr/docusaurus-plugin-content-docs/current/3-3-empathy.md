@@ -12,9 +12,9 @@ Main ball spiker avec un focus sur les [C-target](/tactics/glossary#c-target) et
 
 [Empathy;OQpjAwCc6QLBnAmO0laATP2k4UA]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Mesmer gear](/tactics/gear/mesmer) comme base.
+Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
 
 ## Titres
 

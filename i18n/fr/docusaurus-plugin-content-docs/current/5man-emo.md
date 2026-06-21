@@ -12,9 +12,9 @@ Emo maintient les bonds, aide à la rift et permet le setup d'énergie du tank e
 
 [Emo;OgNDwcPPT3MaR1CkE0lxDHEyD]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Emo gear](/tactics/gear/emo) comme base.
+Utilisez la page partagée [équipement Emo](/tactics/gear/emo) comme base.
 
 ## Notes
 

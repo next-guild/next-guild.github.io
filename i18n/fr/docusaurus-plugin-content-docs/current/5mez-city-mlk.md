@@ -12,9 +12,9 @@ Même build qu'en 6-0, avec des responsabilités plus rapides en city et au 360.
 
 [MLK;OQhnAwBhAPEgRYIG0SwJgpz0DdJHwNlGAA]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Mesmer gear](/tactics/gear/mesmer) comme base.
+Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
 
 ## Notes
 

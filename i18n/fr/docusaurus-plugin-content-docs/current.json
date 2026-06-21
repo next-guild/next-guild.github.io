@@ -24,7 +24,7 @@
     "description": "The label for category '5 Mez City Split' in sidebar 'tacticsSidebar'"
   },
   "sidebar.tacticsSidebar.category.Gear": {
-    "message": "Gear",
+    "message": "Équipement",
     "description": "The label for category 'Gear' in sidebar 'tacticsSidebar'"
   },
   "sidebar.tacticsSidebar.category.Reference": {

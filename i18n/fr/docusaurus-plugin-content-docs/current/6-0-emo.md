@@ -12,9 +12,9 @@ Même rôle qu'en 3-3, sauf que vous tankez plus d'ennemis en Veil pendant le 6-
 
 [Emo;OgNDwcb/S1C3MaRkEyDxDHE0lA]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Emo gear](/tactics/gear/emo) comme base.
+Utilisez la page partagée [équipement Emo](/tactics/gear/emo) comme base.
 
 ## Titres
 

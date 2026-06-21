@@ -2,6 +2,7 @@
 id: gear-mt
 slug: gear/mt
 title: MT Gear
+sidebar_label: MT
 ---
 
 # MT Gear

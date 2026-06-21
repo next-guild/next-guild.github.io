@@ -12,9 +12,9 @@ Vous êtes responsable de [Edge of extinction], de manière similaire au placeme
 
 [VoR;OQJTASBbTiu0tZDQwx0Z6JmE6AA]
 
-## Gear
+## Équipement
 
-Utilisez la page partagée [Mesmer gear](/tactics/gear/mesmer) comme base.
+Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
 
 ## Notes
 
