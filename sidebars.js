@@ -58,6 +58,8 @@ module.exports = {
                         '5mez-city-tt',
                     ],
                 },
+                '5-mesmers-veil-split',
+                '4-mesmers-iau-derv',
                 {
                     type: 'category',
                     label: '5 Man',
@@ -70,8 +72,6 @@ module.exports = {
                         '5man-tank',
                     ],
                 },
-                '5-mesmers-veil-split',
-                '4-mesmers-iau-derv',
             ],
         },
         {
