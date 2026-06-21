@@ -33,7 +33,7 @@ Utilisez la page partagée [équipement Ranger](/tactics/gear/ranger) comme base
 - Utilisez [Shadow form] en room 1.
 - Faites les balls en room 2 si la team n'a pas aggro. [Recall] votre Emo avant d'entrer en room 3.
 - Aggro les Dryders en premier en room 3 et pull le reste des ennemis.
-- Room 4 : pas de changement comparé au job MT/TT classique.
+- Room 4 : attendez le reball pour la wave 1 avant de spike, puis tout les gens pushent vers la fin de la room.
 - Room 5 : job MT classique, clear le troisième snake après que les deux premiers snakes soient pris.
 - Whirl down la Fury avec un right wall block.
 
