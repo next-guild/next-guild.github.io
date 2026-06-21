@@ -51,11 +51,7 @@ Gameplay videos are missing and will be added soon.
 
 [bar MT;OwFkUld3HPakOzBENJuTDkNJCUnD]
 
-_Adjust the Tactics requirement depending on your shield requirement and any additional pcons used._
-
 [bar TT;OwFkUld3HPa0BkODNZozEECEuTnD]
-
-_Adjust the Tactics requirement depending on your shield requirement and any additional pcons used._
 
 ## Spiking guide
 

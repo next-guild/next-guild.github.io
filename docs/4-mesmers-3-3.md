@@ -38,11 +38,7 @@ sidebar_label: 3-3 Teaching
 
 [bar MT;OwFkUld5HPOENpOTDECEujN5BUnD]
 
-_Adjust the Tactics requirement depending on your shield requirement and any additional pcons used._
-
 [bar TT;OwFkMOd5HXlENpODuDCUDUozBUnD]
-
-_Adjust the Tactics requirement depending on your shield requirement and any additional pcons used._
 
 ## Teach discords
 

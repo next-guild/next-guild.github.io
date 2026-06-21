@@ -47,11 +47,7 @@ sidebar_label: 6-0
 
 [bar MT;OwFkUld3HPakOzBENJuTDkNJCUnD]
 
-_Ajustez le niveau de Tactics selon le requirement du shield et les pcons supplémentaires utilisés._
-
 [bar TT;OwFkUld3HPa0BkODNZozEECEuTnD]
-
-_Ajustez le niveau de Tactics selon le requirement du shield et les pcons supplémentaires utilisés._
 
 ## Spiking guide
 
