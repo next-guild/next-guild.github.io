@@ -39,7 +39,6 @@ L'équipement Necro suit la même logique que l'équipement mesmer, mais avec de
 [weapon type="Staff" rarity=gold name="Adept Curses Staff of the Mesmer" base="Energy +10" stat="Dark dmg: 11-22 (Requires 9 Curses)"]
 [mod effect="Halves skill recharge of Curses spells (Chance 20%)"][/mod]
 [mod name="&quot;Aptitude not Attitude&quot;" effect="Halves casting time of Curses spells (Chance 20%)"][/mod]
-[mod effect="Halves casting time of Curses spells (Chance 20%)"][/mod]
 [mod effect="Fast casting: 5"][/mod]
 [/weapon]
 [/gear]
