@@ -7,6 +7,10 @@ sidebar_label: 6-0
 
 # 4 Mez 6-0
 
+:::warning Tactiques en cours de mise à jour
+Suite à la [mise à jour du 24 juin 2026](https://wiki.guildwars.com/wiki/Feedback:Game_updates/20260624), toutes les tactiques sont actuellement en cours de refonte.
+:::
+
 6-0 est le format le plus joué par les joueurs expérimentés. Il échange un peu de sécurité contre plus de vitesse.
 
 ## Ce qui change par rapport au 3-3

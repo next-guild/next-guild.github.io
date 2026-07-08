@@ -3,7 +3,7 @@ import Layout from '@theme/Layout';
 import Translate, { translate } from '@docusaurus/Translate';
 import styles from './about.module.css';
 
-const leaders = ['Insane Candy', 'Cute Mila'];
+const leaders = ['Cute Mila'];
 const officers = ['Karen Jay', 'Tear', 'Panda Goes Slayer'];
 
 function MemberList({ title, members }) {
@@ -48,9 +48,26 @@ export default function About() {
                             </p>
                             <p>
                                 <Translate id="about.recruitment">
-                                    We are not recruiting new players. To join, you must have been through a teaching Discord first.
+                                    Recruitment is open again. We welcome any motivated players who want to run with us.
                                 </Translate>
                             </p>
+                            <div className={styles.noteBlock}>
+                                <h2>
+                                    <Translate id="about.recruitmentGuidelines.title">Recruitment guidelines</Translate>
+                                </h2>
+                                <ul>
+                                    <li>
+                                        <Translate id="about.recruitmentGuidelines.doasc">
+                                            We play nearly exclusively DoASC.
+                                        </Translate>
+                                    </li>
+                                    <li>
+                                        <Translate id="about.recruitmentGuidelines.french">
+                                            The core of the guild is composed of French players, so enjoying the French accent is a must.
+                                        </Translate>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                     <figure className={styles.capeFrame}>

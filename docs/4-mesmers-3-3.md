@@ -7,6 +7,10 @@ sidebar_label: 3-3 Teaching
 
 # 4 Mez 3-3
 
+:::warning Tactics being reworked
+Due to the [June 24, 2026 game update](https://wiki.guildwars.com/wiki/Feedback:Game_updates/20260624), all tactics are currently being reworked.
+:::
+
 3-3 is the baseline teaching format. It introduces the core DoA rhythm: communication, spike discipline, clean aggro and targeting while being fast and safe.
 
 ## Roles

@@ -516,7 +516,16 @@
     "message": "Nous jouons principalement en DoA 6-0, et les runs sont generalement formes vers 20:30 CET."
   },
   "about.recruitment": {
-    "message": "Nous ne recrutons pas de nouveaux joueurs. Pour nous rejoindre, il faut d'abord etre passe par un Discord teach."
+    "message": "Le recrutement est de nouveau ouvert. Nous accueillons tous les joueurs motives qui veulent run avec nous."
+  },
+  "about.recruitmentGuidelines.title": {
+    "message": "Conditions de recrutement"
+  },
+  "about.recruitmentGuidelines.doasc": {
+    "message": "Nous jouons presque exclusivement en DoASC."
+  },
+  "about.recruitmentGuidelines.french": {
+    "message": "Le coeur de la guilde est compose de joueurs francais, donc apprécier l'accent francais est indispensable."
   },
   "about.cape.alt": {
     "message": "Cape de la guilde Next"

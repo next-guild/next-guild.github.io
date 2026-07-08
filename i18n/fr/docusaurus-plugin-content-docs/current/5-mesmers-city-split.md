@@ -7,6 +7,10 @@ sidebar_label: 5 Mez City Split
 
 # 5 Mez City Split
 
+:::warning Tactiques en cours de mise à jour
+Suite à la [mise à jour du 24 juin 2026](https://wiki.guildwars.com/wiki/Feedback:Game_updates/20260624), toutes les tactiques sont actuellement en cours de retravail.
+:::
+
 5 Mez City Split remplace l'UA par un MeMo. La run gagne en spiking power, ce qui permet plus de splits, mais perd un peu de survivabilité et de qualité de vie.
 
 :::info Work in progress

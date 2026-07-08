@@ -52,7 +52,7 @@ const SEARCH_ENTRIES = [
     { title: 'Ranger Gear', path: '/tactics/gear/ranger', text: 'ranger gear expertise blessed insignia veil high hp headpiece enchanting flatbow demon shield' },
     { title: 'Recoveries', path: '/tactics/recoveries', text: 'recover failed cave rift cap foundry quest derv hill' },
     { title: 'In Depth Concepts', path: '/tactics/in-depth-concepts', text: 'fast wall monk lord first snake tk city pull' },
-    { title: 'About Next', path: '/about', text: 'guild leaders officers runs recruiting discord' },
+    { title: 'About Next', path: '/about', text: 'guild leaders officers recruitment open doasc french accent discord' },
 ];
 
 function normalize(value) {

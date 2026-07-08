@@ -11,3 +11,4 @@ Le Veil split introduit un minion mesmer, ce qui permet une tactic de [Recall] a
 :::info Work in progress
 Les builds et détails des rôles seront ajoutés ici après avoir rempli le City split.
 :::
+

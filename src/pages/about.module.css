@@ -54,6 +54,31 @@
     color: #d4c3ff;
 }
 
+.noteBlock {
+    padding: 16px 18px;
+    border: 1px solid rgba(217, 162, 255, 0.2);
+    border-radius: 8px;
+    background: rgba(16, 8, 28, 0.68);
+    color: #d4c3ff;
+}
+
+.noteBlock h2 {
+    margin: 0 0 10px;
+    color: #ffb1ff;
+    font-size: 1rem;
+}
+
+.noteBlock ul {
+    display: grid;
+    gap: 8px;
+    margin: 0;
+    padding-left: 1.1rem;
+}
+
+.noteBlock li {
+    color: #d4c3ff;
+}
+
 .capeFrame {
     margin: 0;
     padding: 24px;
