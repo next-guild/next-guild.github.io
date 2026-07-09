@@ -34,7 +34,7 @@ function Home() {
         {
             title: translate({ id: 'home.resource.nextDiscord.title', message: 'Next Discord' }),
             description: translate({ id: 'home.resource.nextDiscord.description', message: 'Guild runs and Next community.' }),
-            href: 'https://discord.gg/QDZX5ATnaH',
+            href: 'https://discord.gg/EZm8W3t5AZ',
             label: translate({ id: 'home.resource.nextDiscord.cta', message: 'Join Next' }),
             icon: <DiscordIcon />,
         },
