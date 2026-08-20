@@ -10,7 +10,7 @@ Handles MLK-specific pressure and timing.
 
 ## Build
 
-[MLK;OQhnAwBhAPEgRYIG0SwJgpz0DdJHwNlGAA]
+[MLK;OQRDIKgHTLB5BmO3UTPAAcA0l]
 
 ## Gear
 
@@ -40,6 +40,7 @@ Can help you survive a little more while sitting in the glitch spot as nothing c
 
 ## Notes
 
+- You can use [Cry of Pain] instead of [Arcane echo] for easier energy management. Use [Empathy], [You Move Like a Dwarf!], or [Finish Him!] in the empty skill slot.
 - You are in charge of killing the monk lord, wait for him to settle on the TT and make sure to proc his [Smite Hex] with [Wastrel's Demise] before using [Empathy] and [Backfire].
 
 ## Gameplay videos

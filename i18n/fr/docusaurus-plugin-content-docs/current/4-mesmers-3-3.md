@@ -7,10 +7,6 @@ sidebar_label: 3-3 Teaching
 
 # 4 Mez 3-3
 
-:::warning Tactiques en cours de mise à jour
-Suite à la [mise à jour du 24 juin 2026](https://wiki.guildwars.com/wiki/Feedback:Game_updates/20260624), toutes les tactiques sont actuellement en cours de retravail.
-:::
-
 3-3 est le format d'apprentissage de base. Il introduit le rythme du DoA : communication, discipline de spike, aggro propre et ciblage, tout en restant rapide et sûr.
 
 ## Rôles
@@ -28,11 +24,11 @@ Suite à la [mise à jour du 24 juin 2026](https://wiki.guildwars.com/wiki/Feedb
 
 ## Team build
 
-[bar Empathy;OQpjAwCc6QLBnAmO0laATP2k4UA]
+[bar Empathy;OQRDIKgHT5B2gmO4UTP2kaA0l]
 
 [bar Backfire;OQhjAwCMYQLBnAmO0lcATP2k3UA]
 
-[bar TK;OQdCAsw0SwJgpTQgc50TMZnD]
+[bar TK;OQdDAosxSLBnAmOIgTPylxkdO]
 
 [bar VoR;OQljAwCs5QuNbAmOCOwlTP2k0l]
 

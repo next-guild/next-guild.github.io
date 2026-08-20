@@ -10,7 +10,7 @@ Main ball spiker with a focus on [C-target](/tactics/glossary#c-target) and sing
 
 ## Build
 
-[Empathy;OQpjAwCc6QLBnAmO0laATP2k4UA]
+[Empathy;OQRDIKgHT5B2gmO4UTP2kaA0l]
 
 ## Gear
 
@@ -57,7 +57,6 @@ Pick up quest rewards and bounties in DoA to quickly level it up.
     allowFullScreen
   />
 </div>
-
 
 
 

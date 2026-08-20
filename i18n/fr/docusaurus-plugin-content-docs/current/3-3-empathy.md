@@ -10,7 +10,7 @@ Main ball spiker avec un focus sur les [C-target](/tactics/glossary#c-target) et
 
 ## Build
 
-[Empathy;OQpjAwCc6QLBnAmO0laATP2k4UA]
+[Empathy;OQRDIKgHT5B2gmO4UTP2kaA0l]
 
 ## Équipement
 

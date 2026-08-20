@@ -10,11 +10,19 @@ Same build as 6-0, but [Arcane Mimicry] becomes important for the city and Jadot
 
 ## Build
 
-[TK;OQdTAYB/HaJ4Ew0Z6JIImUuszBA]
+[TK;OQdDAosxSLBnAmOIgTPylxkdO]
+
+### Advanced alternative
+
+[TK (advanced);OQdDAooBTLBKBmOIgTPyl2kdO]
 
 ## Gear
 
 Use the shared [Mesmer gear](/tactics/gear/mesmer) page as the baseline.
+
+[gear name="Superior Illusion armor piece"]
+[armor piece="Leg" rune="Rune of Superior Illusion Magic +3 / Health -75" insignia="Radiant Insignia / +2 energy" rating=60]
+[/gear]
 
 ## Notes
 

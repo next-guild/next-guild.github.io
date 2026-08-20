@@ -10,11 +10,19 @@ Même build qu'en 6-0, mais [Arcane Mimicry] devient important pour les spikes d
 
 ## Build
 
-[TK;OQdTAYB/HaJ4Ew0Z6JIImUuszBA]
+[TK;OQdDAosxSLBnAmOIgTPylxkdO]
+
+### Alternative avancée
+
+[TK (avancé);OQdDAooBTLBKBmOIgTPyl2kdO]
 
 ## Équipement
 
 Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
+
+[gear name="Pièce d'armure Illusion supérieure"]
+[armor piece="Leg" rune="Rune of Superior Illusion Magic +3 / Health -75" insignia="Radiant Insignia / +2 energy" rating=60]
+[/gear]
 
 ## Notes
 

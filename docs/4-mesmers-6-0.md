@@ -7,10 +7,6 @@ sidebar_label: 6-0
 
 # 4 Mez 6-0
 
-:::warning Tactics being reworked
-Due to the [June 24, 2026 game update](https://wiki.guildwars.com/wiki/Feedback:Game_updates/20260624), all tactics are currently being reworked.
-:::
-
 6-0 is the most commonly played format for experienced players, it trades some safety for speed.
 
 ## What changes from 3-3
@@ -39,9 +35,9 @@ Due to the [June 24, 2026 game update](https://wiki.guildwars.com/wiki/Feedback:
 
 [bar IAU;OQdTAYB/HaJ4Ew0Z6xmUukmEBCA]
 
-[bar TK;OQdTAYB/HaJ4Ew0Z6JIImUuszBA]
+[bar TK;OQdDAosxSLBnAmOIgTPylxkdO]
 
-[bar MLK;OQhnAwBhAPEgRYIG0SwJgpz0DdJHwNlGAA]
+[bar MLK;OQRDIKgHTLB5BmO3UTPAAcA0l]
 
 [bar VoR;OQljAwCs5QxkuNCObAmOTP2k0lA]
 
