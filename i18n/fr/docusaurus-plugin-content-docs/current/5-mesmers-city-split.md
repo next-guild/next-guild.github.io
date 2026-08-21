@@ -28,7 +28,7 @@ Les vidéos gameplay sont manquantes et seront ajoutées bientôt.
 | --- | --- | --- |
 | IAU | Aide à créer le setup rapide de city, spike le côté gauche de city, rejoint Emo pour le gloom rift cap. | [Ouvrir le rôle](/tactics/5-mesmers-city-split/iau) |
 | MLK | Spike le côté droit de city, va au 360 avec VoR. | [Ouvrir le rôle](/tactics/5-mesmers-city-split/mlk) |
-| TK | Copie [Visions of regret] avec [Arcane Mimicry] pour les spikes côté droit de city et Jadoth. | [Ouvrir le rôle](/tactics/5-mesmers-city-split/tk) |
+| TK | Spike le côté droit de city. | [Ouvrir le rôle](/tactics/5-mesmers-city-split/tk) |
 | VoR | Spike le côté gauche de city, va au 360 avec MLK. Place [Edge of extinction]. | [Ouvrir le rôle](/tactics/5-mesmers-city-split/vor) |
 | MeMo | Spike le côté gauche de city. Remplace UA avec plus de spike damage et du support [Healing Seed]. | [Ouvrir le rôle](/tactics/5-mesmers-city-split/memo) |
 | Emo | Reçoit le Recall du TT en city et avance pour la transition Jadoth. | [Ouvrir le rôle](/tactics/5-mesmers-city-split/emo) |
