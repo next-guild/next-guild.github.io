@@ -18,7 +18,7 @@ Use the shared [Mesmer gear](/tactics/gear/mesmer) page as the baseline.
 
 ## Notes
 
-- This build uses [Cry of Pain] instead of [Echo] for easier energy management. Use [Empathy], [You Move Like a Dwarf!], or [Finish Him!] in the empty skill slot.
+- You can use [Cry of Pain] instead of [Arcane Echo] for easier energy management. Use [Empathy], [You Move Like a Dwarf!], or [Finish Him!] in the empty skill slot.
 - In foundry room 4, help kill wave 3 and 4 on spawn instead of waiting for TT to make clean balls.
 - During fast wall, finish the last mank with MeMo while VoR, IAU, and TK leave early.
 - During the city inner split, go right side with TK and MT.
