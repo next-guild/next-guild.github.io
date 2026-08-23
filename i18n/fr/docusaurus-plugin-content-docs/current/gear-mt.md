@@ -55,7 +55,7 @@ Les deux options ci-dessus sont aussi bonnes l'une que l'autre. Utilisez ce set 
 [gear name="Daggers"]
 [weapon type="Dagger" rarity=gold name="Vampiric Dagger of Enchanting" stat="Piercing dmg: 7-17 (Requires 9 Dagger mastery)"]
 [mod name="&quot;Guided by Fate&quot;" effect="Damage +15% (while Enchanted)"][/mod]
-[mod effect="Life draining 5 / Health regeneration -1"][/mod]
+[mod effect="Life draining 3 / Health regeneration -1"][/mod]
 [mod effect="Enchantments last 20% longer"][/mod]
 [/weapon]
 [/gear]
@@ -105,7 +105,7 @@ Moins de health donne plus de survivabilité à Jadoth. Non craftable via inscri
 [/gear]
 Vous serez toujours enchanté dans les situations où vous avez besoin de health, donc ce bouclier est légèrement plus optimal que le bouclier green de la black beast. Non craftable via inscriptions.
 
-[gear name="Bow anniversaire"]
+[gear name="Arc d'anniversaire"]
 [weapon type="Bow" rarity=gold name="Vampiric Anniversary Bow of Enchanting" stat="Piercing dmg: 15-28 (Requires 9 Critical Strikes)"]
 [mod name="&quot;Guided by Fate&quot;" effect="Damage +15% (while Enchanted)"][/mod]
 [mod effect="Life draining 5 / Health regeneration -1"][/mod]

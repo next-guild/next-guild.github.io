@@ -46,7 +46,7 @@ Les deux options ci-dessus sont aussi bonnes l'une que l'autre.
 [gear name="Daggers"]
 [weapon type="Dagger" rarity=gold name="Vampiric Dagger of Enchanting" stat="Piercing dmg: 7-17 (Requires 9 Dagger mastery)"]
 [mod name="&quot;Guided by Fate&quot;" effect="Damage +15% (while Enchanted)"][/mod]
-[mod effect="Life draining 5 / Health regeneration -1"][/mod]
+[mod effect="Life draining 3 / Health regeneration -1"][/mod]
 [mod effect="Enchantments last 20% longer"][/mod]
 [/weapon]
 [/gear]
