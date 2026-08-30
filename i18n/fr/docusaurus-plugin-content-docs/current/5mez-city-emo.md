@@ -10,7 +10,7 @@ Même build qu'en 6-0, avec des responsabilités différentes pour recall en cit
 
 ## Build
 
-[Emo;OgNDwcb/S1C3MaRkEyDxDHE0lA]
+[Emo;OgNDwcPPT3M1CaRkEyDxDHE0lA]
 
 ## Équipement
 

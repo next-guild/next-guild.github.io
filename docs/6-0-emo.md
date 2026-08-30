@@ -10,7 +10,7 @@ Same role as 3-3, except you tank more enemies in veil during 6-0.
 
 ## Build
 
-[Emo;OgNDwcb/S1C3MaRkEyDxDHE0lA]
+[Emo;OgNDwcPPT3M1CaRkEyDxDHE0lA]
 
 ## Gear
 

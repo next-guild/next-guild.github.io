@@ -10,7 +10,7 @@ Same build as 6-0, with cleaner foundry to city recall and split requirements.
 
 ## Build
 
-[MT;OwFkUld3HPakOzBENJuTDkNJCUnD]
+[MT;OwFkUldzHPm0BkODNpNJuDCUDUnD]
 
 _Adjust the Tactics requirement depending on your shield requirement and any additional pcons used._
 

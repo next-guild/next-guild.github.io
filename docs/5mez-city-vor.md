@@ -10,7 +10,7 @@ You are in charge of the [Edge of extinction] similarly to how the UA would plac
 
 ## Build
 
-[VoR;OQJTASBbTiu0tZDQwx0Z6JmE6AA]
+[VoR;OQJTASBbTSwxtZDw0Z6JmE6guEA]
 
 ## Gear
 

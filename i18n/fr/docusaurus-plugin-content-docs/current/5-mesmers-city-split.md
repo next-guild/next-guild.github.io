@@ -43,13 +43,13 @@ Les vidéos gameplay sont manquantes et seront ajoutées bientôt.
 
 [bar MLK;OQRDAooHTLB5BmO3UTP2kcA0lA]
 
-[bar VoR;OQJTASBbTiu0tZDQwx0Z6JmE6AA]
+[bar VoR;OQJTASBbTSwxtZDw0Z6JmE6guEA]
 
-[bar MeMo;OQNDAqwNS0lLBnAmO4UTP2kSEA]
+[bar MeMo;OQNDAqwNSLBnAmO4UTP2kSE0lA]
 
-[bar Emo;OgNDwcb/S1C3MaRkEyDxDHE0lA]
+[bar Emo;OgNDwcPPT3M1CaRkEyDxDHE0lA]
 
-[bar MT;OwFkUld3HPakOzBENJuTDkNJCUnD]
+[bar MT;OwFkUldzHPm0BkODNpNJuDCUDUnD]
 
 [bar TT;OwFkUld3HPa0BkODNZozEECEuTnD]
 

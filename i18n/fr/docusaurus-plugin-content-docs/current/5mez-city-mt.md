@@ -10,7 +10,7 @@ Même build qu'en 6-0, avec un recall founderie vers city plus propre et des nou
 
 ## Build
 
-[MT;OwFkUld3HPakOzBENJuTDkNJCUnD]
+[MT;OwFkUldzHPm0BkODNpNJuDCUDUnD]
 
 _Ajustez le niveau de Tactics selon le requirement du shield et les pcons supplémentaires utilisés._
 

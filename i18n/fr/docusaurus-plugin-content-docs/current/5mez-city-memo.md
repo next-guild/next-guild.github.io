@@ -10,7 +10,7 @@ MeMo remplace UA. Il ajoute plus de spiking power, mais la team perd la survivab
 
 ## Build
 
-[MeMo;OQNDAqwNS0lLBnAmO4UTP2kSEA]
+[MeMo;OQNDAqwNSLBnAmO4UTP2kSE0lA]
 
 ## Équipement
 

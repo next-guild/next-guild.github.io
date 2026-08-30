@@ -10,7 +10,7 @@ Même rôle qu'en 3-3, sauf que vous tankez plus d'ennemis en Veil pendant le 6-
 
 ## Build
 
-[Emo;OgNDwcb/S1C3MaRkEyDxDHE0lA]
+[Emo;OgNDwcPPT3M1CaRkEyDxDHE0lA]
 
 ## Équipement
 
