@@ -12,6 +12,8 @@ Gère la pression et le timing spécifiques au MLK.
 
 [MLK;OQRDAooHTLB5BmO3UTP2kcA0lA]
 
+Comme il y a moins d'envouteurs [Energy surge], considérez [Spiritual Pain] au lieu de [Mistrust] pour une meilleure gestion des [C-target](/tactics/glossary#c-target).
+
 ## Équipement
 
 Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
@@ -42,7 +44,7 @@ Peut vous aider à survivre un peu plus longtemps au glitch spot, puisque rien n
 
 - Vous êtes responsable des [C-target](/tactics/glossary#c-target).
 - Vous pouvez envisager d'utiliser [Spiritual Pain] à la place de [Mistrust].
-- Vous êtes responsable de tuer le monk lord. Attendez qu'il se stabilise sur le TT et assurez-vous de proc son [Smite Hex] avec [Wastrel's Demise] avant d'utiliser [Empathy] et [Backfire].
+- Vous êtes responsable de tuer le monk lord. Attendez qu'il se stabilise sur le TT et assurez-vous de proc son [Smite Hex] avec [Wastrel's Demise] avant d'utiliser [Spiteful Spirit] et [Backfire].
 
 ## Vidéos gameplay
 

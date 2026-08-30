@@ -12,6 +12,8 @@ Handles MLK-specific pressure and timing.
 
 [MLK;OQRDAooHTLB5BmO3UTP2kcA0lA]
 
+Since there are less [Energy surge] mesmers, you can consider using [Spiritual Pain] instead of [Mistrust] for easier [C-target](/tactics/glossary#c-target) management.
+
 ## Gear
 
 Use the shared [Mesmer gear](/tactics/gear/mesmer) page as the baseline.
@@ -41,8 +43,7 @@ Can help you survive a little more while sitting in the glitch spot as nothing c
 ## Notes
 
 - You are responsible for [C-target](/tactics/glossary#c-target).
-- Consider using [Spiritual Pain] instead of [Mistrust].
-- You are in charge of killing the monk lord, wait for him to settle on the TT and make sure to proc his [Smite Hex] with [Wastrel's Demise] before using [Empathy] and [Backfire].
+- You are in charge of killing the monk lord, wait for him to settle on the TT and make sure to proc his [Smite Hex] with [Wastrel's Demise] before using [Spiteful Spirit] and [Backfire].
 
 ## Gameplay videos
 
