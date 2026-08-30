@@ -10,7 +10,7 @@ Même rôle qu'en 3-3.
 
 ## Build
 
-[VoR;OQljAwCs5QxkuNCObAmOTP2k0lA]
+[VoR;OQljAwCs5QCOuNbAmOTP2kxk0lA]
 
 ## Équipement
 

@@ -10,11 +10,39 @@ Même build qu'en 6-0, avec plus de responsabilités sur le city split.
 
 ## Build
 
-[IAU;OQRDAcw3Q0lCVwBuQIg0kylLBA]
+[IAU;OQRDAcw3QLBCVwBuQIg0kyl0lA]
 
 ## Équipement
 
 Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
+
+[gear name="Remplacement d'armure IAU"]
+[armor piece="Headgear" rune="Rune of Superior Illusion Magic +3 / Health -75" insignia="Radiant Insignia / +1 energy" rating=60 base="Illusion Magic +1"]
+[/gear]
+
+Utilisez cette headpiece +1 +3 Illusion Magic à la place de la headpiece Domination Magic standard.
+
+[gear name="Set Illusion 40/40"]
+[weapon type="Wand" rarity=gold name="Illusion Wand (of memory)" stat="Chaos dmg: 11-22 (Requires 9 Illusion Magic)"]
+[mod effect="Halves skill recharge of Illusion Magic spells (Chance 20%)"][/mod]
+[mod name="&quot;Aptitude not Attitude&quot;" effect="Halves casting time of Illusion Magic spells (Chance 20%)"][/mod]
+[/weapon]
+[weapon type="Focus" rarity=gold name="Illusion Focus (of aptitude)" stat="Energy +12 (Requires 9 Illusion Magic)"]
+[mod effect="Halves casting time of Illusion Magic spells (Chance 20%)"][/mod]
+[mod name="&quot;Forget me not&quot;" effect="Halves skill recharge of Illusion Magic spells (Chance 20%)"][/mod]
+[/weapon]
+[/gear]
+
+[gear name="Set Illusion Soul Reaping"]
+[weapon type="Wand" rarity=gold name="Illusion Wand (of the Necromancer)" stat="Chaos dmg: 11-22 (Requires 9 Illusion Magic)"]
+[mod effect="Soul Reaping: 5"][/mod]
+[mod name="&quot;Aptitude not Attitude&quot;" effect="Halves casting time of Illusion Magic spells (Chance 20%)"][/mod]
+[/weapon]
+[weapon type="Focus" rarity=gold name="Illusion Focus (of aptitude)" stat="Energy +12 (Requires 9 Illusion Magic)"]
+[mod effect="Halves casting time of Illusion Magic spells (Chance 20%)"][/mod]
+[mod name="&quot;Forget me not&quot;" effect="Halves skill recharge of Illusion Magic spells (Chance 20%)"][/mod]
+[/weapon]
+[/gear]
 
 ## Notes
 

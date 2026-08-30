@@ -33,13 +33,13 @@ sidebar_label: 6-0
 
 ## Team build
 
-[bar IAU;OQRDAcw3Q0lCVwBuQIg0kylLBA]
+[bar IAU;OQRDAcw3QLBCVwBuQIg0kyl0lA]
 
-[bar TK;OQdTAYB/HaJ4Ew0xmc6JmUuszBA]
+[bar TK;OQdTAYB/HaJ4Ew0Ruc6xmMmszBA]
 
 [bar MLK;OQRDAooHTLB5BmO3UTP2kcA0lA]
 
-[bar VoR;OQljAwCs5QxkuNCObAmOTP2k0lA]
+[bar VoR;OQljAwCs5QCOuNbAmOTP2kxk0lA]
 
 [bar UA;OwIT8MIbXKH8u6BE6QuEgghguEA]
 

@@ -10,7 +10,7 @@ Même rôle & build qu'en 6-0.
 
 ## Build
 
-[TK;OQdTAYB/HaJ4Ew0xmc6JmUuszBA]
+[TK;OQdTAYB/HaJ4Ew0Ruc6xmMmszBA]
 
 ## Équipement
 

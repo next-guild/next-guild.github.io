@@ -37,9 +37,9 @@ Les vidéos gameplay sont manquantes et seront ajoutées bientôt.
 
 ## Team build
 
-[bar IAU;OQRDAcw3Q0lCVwBuQIg0kylLBA]
+[bar IAU;OQRDAcw3QLBCVwBuQIg0kyl0lA]
 
-[bar TK;OQdTAYB/HaJ4Ew0xmc6JmUuszBA]
+[bar TK;OQdTAYB/HaJ4Ew0Ruc6xmMmszBA]
 
 [bar MLK;OQRDAooHTLB5BmO3UTP2kcA0lA]
 
