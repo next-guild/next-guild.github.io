@@ -10,7 +10,7 @@ Similaire à Empathy en 3-3, mais avec plus de responsabilités pendant le 6-0.
 
 ## Build
 
-[IAU;OQdTAYB/HaJ4Ew0Z6xmUukmEBCA]
+[IAU;OQRDAcw3Q0lCVwBuQIg0kylLBA]
 
 Pour le start Gloom, remplacez [Heart of Shadow] par [Recall], car le TT vous aidera à faire le 6-0.
 
@@ -27,7 +27,7 @@ Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base
 
 ## Notes
 
-- Vous êtes toujours responsable des [C-target](/tactics/glossary#c-target).
+- Vous êtes responsable de l'off-damage. Coordonnez-vous avec la team pour le garder sous contrôle.
 - Faites attention à un potentiel [Share Aggro](/tactics/glossary/#share-aggro) avec le MT pendant le 6-0.
 - Reculez entre chaque wave pendant que vous tankez la Black Beast.
 - Vous pouvez aider à [save derv hill](/tactics/recoveries#saving-derv-hill-as-iau) si votre TT est en difficulté.

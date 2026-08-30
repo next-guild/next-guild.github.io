@@ -10,7 +10,7 @@ Même build qu'en 6-0, avec plus de responsabilités sur le city split.
 
 ## Build
 
-[IAU;OQdTAYB/HaJ4Ew0Z6xmUukmEBCA]
+[IAU;OQRDAcw3Q0lCVwBuQIg0kylLBA]
 
 ## Équipement
 
@@ -18,6 +18,7 @@ Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base
 
 ## Notes
 
+- Vous êtes responsable de l'off-damage. Coordonnez-vous avec la team pour le garder sous contrôle.
 - En foundry room 4, aidez à tuer wave 3 et 4 on spawn au lieu d'attendre que le TT fasse des balls propres.
 - Quittez tôt la dernière wave de Black Beast of Aaaaarrrrrrggghhh pour que la team puisse spike la Fury dès qu'elle est prête.
 - Pendant le fast wall, partez tôt avec VoR et TK pour spike second outer.

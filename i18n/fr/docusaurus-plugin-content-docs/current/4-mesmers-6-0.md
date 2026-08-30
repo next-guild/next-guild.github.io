@@ -11,7 +11,7 @@ sidebar_label: 6-0
 
 ## Ce qui change par rapport au 3-3
 
-- Plus de responsabilité pour le Backfire, qui devient monk lord killer, et pour l'Empathy, qui devient IAU et reprend une partie des responsabilités du TK.
+- Plus de responsabilité pour le Backfire, qui devient monk lord killer et gère les [C-target](/tactics/glossary#c-target). Empathy devient IAU et gère l'off-damage.
 - 6-0 signifie que les six tendrils sont tués en une seule fois au lieu de deux groupes.
 - IAU doit tuer 2 tendrils et pull les spawns vers l'Emo pendant le 6-0.
 - En foundry room 4, la team court vers la gate de room 5. Les waves 3 et 4 peuvent spawn directement sur la team, ce qui rend le passage plus risqué.
@@ -22,9 +22,9 @@ sidebar_label: 6-0
 
 | Rôle | Changement principal | Page |
 | --- | --- | --- |
-| IAU | Va derv hill pour pull le lord. Va ele patrol au lieu du necro lord. Fait la première paire de tendrils du TK pendant le 6-0. | [Ouvrir le rôle](/tactics/4-mesmers-6-0/iau) |
-| MLK | Va une deuxième fois au glitch spot après dervish hill. Tue monk lord. Tue le deuxième tendril d'Empathy pendant le 6-0. | [Ouvrir le rôle](/tactics/4-mesmers-6-0/mlk) |
-| TK | Va ranger hill au lieu de derv hill. Va aux back tendrils pendant le 6-0. | [Ouvrir le rôle](/tactics/4-mesmers-6-0/tk) |
+| IAU | Gère l'off-damage. Va derv hill pour pull le lord, puis ele patrol au lieu du necro lord. Fait la première paire de tendrils du TK pendant le 6-0. | [Ouvrir le rôle](/tactics/4-mesmers-6-0/iau) |
+| MLK | Gère les [C-target](/tactics/glossary#c-target). Va une deuxième fois au glitch spot après dervish hill, tue monk lord, puis le deuxième tendril d'Empathy pendant le 6-0. | [Ouvrir le rôle](/tactics/4-mesmers-6-0/mlk) |
+| TK | Va ranger hill au lieu de derv hill, gère toutes les cibles [You Move Like a Dwarf!] auparavant gérées par l'IAU, puis va aux back tendrils pendant le 6-0. | [Ouvrir le rôle](/tactics/4-mesmers-6-0/tk) |
 | VoR | Tue le premier tendril d'Empathy pendant le 6-0. | [Ouvrir le rôle](/tactics/4-mesmers-6-0/vor) |
 | UA | Similaire au 3-3. | [Ouvrir le rôle](/tactics/4-mesmers-6-0/ua) |
 | Emo | Similaire au 3-3. | [Ouvrir le rôle](/tactics/4-mesmers-6-0/emo) |
@@ -33,11 +33,11 @@ sidebar_label: 6-0
 
 ## Team build
 
-[bar IAU;OQdTAYB/HaJ4Ew0Z6xmUukmEBCA]
+[bar IAU;OQRDAcw3Q0lCVwBuQIg0kylLBA]
 
-[bar TK;OQdDAosxSLBnAmOIgTPylxkdO]
+[bar TK;OQdTAYB/HaJ4Ew0xmc6JmUuszBA]
 
-[bar MLK;OQRDIKgHTLB5BmO3UTPAAcA0l]
+[bar MLK;OQRDAooHTLB5BmO3UTP2kcA0lA]
 
 [bar VoR;OQljAwCs5QxkuNCObAmOTP2k0lA]
 

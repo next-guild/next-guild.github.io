@@ -12,16 +12,6 @@ Same role as 3-3.
 
 [VoR;OQljAwCs5QxkuNCObAmOTP2k0lA]
 
-### Alternative build
-
-[VoR (alternative);OQlkIwAZQWOkbjpDC4Gw0DAQMJdJ]
-
-[gear name="Superior Illusion armor piece"]
-[armor piece="Leg" rune="Rune of Superior Illusion Magic +3 / Health -75" insignia="Radiant Insignia / +2 energy" rating=60]
-[/gear]
-
-For its empty skill slot, use [You Move Like a Dwarf!], [Cry of Pain], or [Spiritual Pain].
-
 ## Gear
 
 Use the shared [Mesmer gear](/tactics/gear/mesmer) page as the baseline.

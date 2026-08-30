@@ -10,22 +10,15 @@ Same role & build as 6-0.
 
 ## Build
 
-[TK;OQdDAosxSLBnAmOIgTPylxkdO]
-
-### Advanced alternative
-
-[TK (advanced);OQdDAooBTLBKBmOIgTPyl2kdO]
+[TK;OQdTAYB/HaJ4Ew0xmc6JmUuszBA]
 
 ## Gear
 
 Use the shared [Mesmer gear](/tactics/gear/mesmer) page as the baseline.
 
-[gear name="Superior Illusion armor piece"]
-[armor piece="Leg" rune="Rune of Superior Illusion Magic +3 / Health -75" insignia="Radiant Insignia / +2 energy" rating=60]
-[/gear]
-
 ## Notes
 
+- Handle all [You Move Like a Dwarf!] targets that IAU previously handled.
 - In foundry room 4, help kill wave 3 and 4 on spawn instead of waiting for TT to make clean balls.
 - During fast wall, leave early with VoR and IAU to spike second outer.
 - During the city inner split, go right side with MLK and MT.

@@ -12,16 +12,6 @@ Même rôle qu'en 3-3.
 
 [VoR;OQljAwCs5QxkuNCObAmOTP2k0lA]
 
-### Build alternatif
-
-[VoR (alternative);OQlkIwAZQWOkbjpDC4Gw0DAQMJdJ]
-
-[gear name="Pièce d'armure Illusion supérieure"]
-[armor piece="Leg" rune="Rune of Superior Illusion Magic +3 / Health -75" insignia="Radiant Insignia / +2 energy" rating=60]
-[/gear]
-
-Pour son emplacement de compétence vide, utilisez [You Move Like a Dwarf!], [Cry of Pain] ou [Spiritual Pain].
-
 ## Équipement
 
 Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.

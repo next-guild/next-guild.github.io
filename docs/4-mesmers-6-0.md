@@ -11,7 +11,7 @@ sidebar_label: 6-0
 
 ## What changes from 3-3
 
-- More responsability for the backfire who becomes the monk lord killer and empathy who becomes IAU and takes some of the TK responsibilities.
+- More responsibility for the backfire, who becomes the monk lord killer and takes [C-target](/tactics/glossary#c-target) responsibility. Empathy becomes IAU and handles off-damage.
 - 6-0 means all six tendrils will be killed at once instead of in two batches.
 - IAU will have to kill 2 tendrils and pull the spawns towards the emo during 6-0.
 - In foundry room 4, the team will run towards the room 5 gate. Wave 3 and 4 can spawn directly on the team, making it riskier.
@@ -22,9 +22,9 @@ sidebar_label: 6-0
 
 | Role | Main change | Page |
 | --- | --- | --- |
-| IAU | Goes to derv hill to pull the lord. Goes to ele patrol instead of necro lord. Does the first TK pair of tendril during 6-0. | [Open role](/tactics/4-mesmers-6-0/iau) |
-| MLK | Goes a second time to the glitch spot after dervish hill. Kills monk lord. Kills the second empathy tendril during 6-0. | [Open role](/tactics/4-mesmers-6-0/mlk) |
-| TK | Goes to ranger hill instead of derv hill. Goes to back tendrils during 6-0. | [Open role](/tactics/4-mesmers-6-0/tk) |
+| IAU | Handles off-damage. Goes to derv hill to pull the lord, then ele patrol instead of necro lord. Does the first TK pair of tendrils during 6-0. | [Open role](/tactics/4-mesmers-6-0/iau) |
+| MLK | Handles [C-target](/tactics/glossary#c-target). Goes a second time to the glitch spot after dervish hill, kills monk lord, then kills the second empathy tendril during 6-0. | [Open role](/tactics/4-mesmers-6-0/mlk) |
+| TK | Goes to ranger hill instead of derv hill, handles all [You Move Like a Dwarf!] targets previously handled by IAU, and goes to back tendrils during 6-0. | [Open role](/tactics/4-mesmers-6-0/tk) |
 | VoR | Kills the first empathy tendril during 6-0. | [Open role](/tactics/4-mesmers-6-0/vor) |
 | UA | Similar to 3-3. | [Open role](/tactics/4-mesmers-6-0/ua) |
 | Emo | Similar to 3-3 . | [Open role](/tactics/4-mesmers-6-0/emo) |
@@ -33,11 +33,11 @@ sidebar_label: 6-0
 
 ## Team build
 
-[bar IAU;OQdTAYB/HaJ4Ew0Z6xmUukmEBCA]
+[bar IAU;OQRDAcw3Q0lCVwBuQIg0kylLBA]
 
-[bar TK;OQdDAosxSLBnAmOIgTPylxkdO]
+[bar TK;OQdTAYB/HaJ4Ew0xmc6JmUuszBA]
 
-[bar MLK;OQRDIKgHTLB5BmO3UTPAAcA0l]
+[bar MLK;OQRDAooHTLB5BmO3UTP2kcA0lA]
 
 [bar VoR;OQljAwCs5QxkuNCObAmOTP2k0lA]
 

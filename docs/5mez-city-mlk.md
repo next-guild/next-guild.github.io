@@ -10,7 +10,7 @@ Same build as 6-0, with faster city and 360 responsibilities.
 
 ## Build
 
-[MLK;OQRDIKgHTLB5BmO3UTPAAcA0l]
+[MLK;OQRDAooHTLB5BmO3UTP2kcA0lA]
 
 ## Gear
 
@@ -18,7 +18,8 @@ Use the shared [Mesmer gear](/tactics/gear/mesmer) page as the baseline.
 
 ## Notes
 
-- You can use [Cry of Pain] instead of [Arcane Echo] for easier energy management. Use [Empathy], [You Move Like a Dwarf!], or [Finish Him!] in the empty skill slot.
+- You are responsible for [C-target](/tactics/glossary#c-target).
+- Consider using [Spiritual Pain] instead of [Mistrust].
 - In foundry room 4, help kill wave 3 and 4 on spawn instead of waiting for TT to make clean balls.
 - During fast wall, finish the last mank with MeMo while VoR, IAU, and TK leave early.
 - During the city inner split, go right side with TK and MT.

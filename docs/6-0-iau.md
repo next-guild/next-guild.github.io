@@ -10,7 +10,7 @@ Similar to Empathy in 3-3 but with more responsibility during 6-0.
 
 ## Build
 
-[IAU;OQdTAYB/HaJ4Ew0Z6xmUukmEBCA]
+[IAU;OQRDAcw3Q0lCVwBuQIg0kylLBA]
 
 For Gloom start, swap [Heart of Shadow] for [Recall] as the TT will help you do 6-0.
 
@@ -27,7 +27,7 @@ Use the shared [Mesmer gear](/tactics/gear/mesmer) page as the baseline.
 
 ## Notes
 
-- You are still responsible of [C-target](/tactics/glossary#c-target).
+- You are responsible for off-damage. Coordinate with the team to keep it under control.
 - Pay attention to a potential [Share Aggro](/tactics/glossary/#share-aggro) with the MT during 6-0.
 - Step back between each waves while tanking the Black beast.
 - You can help [save the derv hill](/tactics/recoveries#saving-derv-hill-as-iau) if your TT is struggling.

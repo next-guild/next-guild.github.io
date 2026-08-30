@@ -4,7 +4,7 @@ import Translate, { translate } from '@docusaurus/Translate';
 import styles from './about.module.css';
 
 const leaders = ['Cute Mila'];
-const officers = ['Karen Jay', 'Tear', 'Panda Goes Slayer'];
+const officers = ['Karen Jay', 'Tear', 'Panda Goes Slayer', 'Sephiria Mesmerize', 'Kunvie Zhan', 'Tinetine'];
 
 function MemberList({ title, members }) {
     return (

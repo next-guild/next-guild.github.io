@@ -26,9 +26,9 @@ Gameplay videos are missing and will be added soon.
 
 | Role | Main change | Page |
 | --- | --- | --- |
-| IAU | Helps create the fast city setup, spikes left-side city, joins Emo for the gloom rift cap. | [Open role](/tactics/5-mesmers-city-split/iau) |
-| MLK | Spikes right-side city, goes with VoR to 360. | [Open role](/tactics/5-mesmers-city-split/mlk) |
-| TK | Spikes right-side city with the MLK. | [Open role](/tactics/5-mesmers-city-split/tk) |
+| IAU | Handles off-damage, helps create the fast city setup, spikes left-side city, and joins Emo for the gloom rift cap. | [Open role](/tactics/5-mesmers-city-split/iau) |
+| MLK | Handles [C-target](/tactics/glossary#c-target), spikes right-side city, and goes with VoR to 360. | [Open role](/tactics/5-mesmers-city-split/mlk) |
+| TK | Handles all [You Move Like a Dwarf!] targets previously handled by IAU, then spikes right-side city with MLK. | [Open role](/tactics/5-mesmers-city-split/tk) |
 | VoR | Spikes left-side city, goes with MLK to 360. Places [Edge of extinction]. | [Open role](/tactics/5-mesmers-city-split/vor) |
 | MeMo | Spikes left-side city. Replaces UA with more spike damage and [Healing Seed] support. | [Open role](/tactics/5-mesmers-city-split/memo) |
 | Emo | Receives TT recall in city and walks up for the Jadoth transition. | [Open role](/tactics/5-mesmers-city-split/emo) |
@@ -37,11 +37,11 @@ Gameplay videos are missing and will be added soon.
 
 ## Team build
 
-[bar IAU;OQdTAYB/HaJ4Ew0Z6xmUukmEBCA]
+[bar IAU;OQRDAcw3Q0lCVwBuQIg0kylLBA]
 
-[bar TK;OQdDAosxSLBnAmOIgTPylxkdO]
+[bar TK;OQdTAYB/HaJ4Ew0xmc6JmUuszBA]
 
-[bar MLK;OQRDIKgHTLB5BmO3UTPAAcA0l]
+[bar MLK;OQRDAooHTLB5BmO3UTP2kcA0lA]
 
 [bar VoR;OQJTASBbTiu0tZDQwx0Z6JmE6AA]
 
