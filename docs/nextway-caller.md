@@ -40,6 +40,14 @@ Places [Edge of Extinction], calls knockdowns for difficult spikes, and helps ma
 [/weapon]
 [/gear]
 
+[gear name="Required rift-cap weapon"]
+[weapon type="Axe" rarity=gold name="Vampiric Anniversary Axe of Demonslaying" stat="Damage: 6-28 (Requires 9 Energy Storage)"]
+[mod name="&quot;Guided by Fate&quot;" effect="Damage +15% (while Enchanted)"][/mod]
+[mod effect="Life draining: 5 / Health regeneration: -1"][/mod]
+[mod effect="Damage +20% (against Demons)"][/mod]
+[/weapon]
+[/gear]
+
 ## Notes
 
 - Call knockdowns for difficult spikes: Foundry room 3 wave 2, Fury, and City balls. [Obsidian Flame] helps with wall clear and C-target management.
