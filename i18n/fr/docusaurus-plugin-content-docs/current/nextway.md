@@ -24,7 +24,7 @@ Nextway est une variante 6-0 construite autour d'un IAU [Vow of Strength], d'un 
 
 ## Build d'équipe
 
-[bar IAU;Ogek8Jp6Kzik513m2VzFNJuDCUnD]
+[bar IAU;Ogek8Jp6Kzik513m2VzFNpcJuTnD]
 
 [bar MLK;OQNDAsw9QbAuNmOTP0laAcASEA]
 
