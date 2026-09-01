@@ -6,7 +6,7 @@ title: MT
 
 # MT
 
-Même build qu'en 6-0, avec un recall founderie vers city plus propre et des nouveaux splits.
+Apporte un Recall propre de Foundry vers City, rejoint MLK et TK côté droit, puis fait les deux premières waves de 360 avec VoR et MLK.
 
 ## Build
 

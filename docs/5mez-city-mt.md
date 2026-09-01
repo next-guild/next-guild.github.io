@@ -6,7 +6,7 @@ title: MT
 
 # MT
 
-Same build as 6-0, with cleaner foundry to city recall and split requirements.
+Brings a clean Recall from Foundry into City, joins MLK and TK on right-side city, then runs the first two 360 waves with VoR and MLK.
 
 ## Build
 

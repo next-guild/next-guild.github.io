@@ -6,7 +6,7 @@ title: MLK
 
 # MLK
 
-Gère la pression et le timing spécifiques au MLK.
+Gère les [C-target](/tactics/glossary#c-target), tue le monk lord depuis le glitch spot, puis fait le deuxième tendril d'Empathy pendant le 6-0.
 
 ## Build
 

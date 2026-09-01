@@ -6,7 +6,7 @@ title: MLK
 
 # MLK
 
-Handles MLK-specific pressure and timing.
+Calls [C-target](/tactics/glossary#c-target), kills the monk lord from the glitch spot, and handles the second empathy tendril during 6-0.
 
 ## Build
 

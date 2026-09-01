@@ -6,7 +6,7 @@ title: TK
 
 # TK
 
-Même rôle & build qu'en 6-0.
+Gère les cibles [You Move Like a Dwarf!] auparavant attribuées à l'IAU, puis spike le côté droit de city avec MLK et MT.
 
 ## Build
 

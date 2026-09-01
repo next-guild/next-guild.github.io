@@ -6,7 +6,7 @@ title: TT
 
 # TT
 
-Même build qu'en 6-0, avec des transitions city et Jadoth plus rapides.
+Recall l'Emo en city, maintient le rythme du split et transitionne rapidement vers la Jadoth ball.
 
 ## Build
 

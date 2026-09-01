@@ -59,7 +59,21 @@ module.exports = {
                     ],
                 },
                 '5-mesmers-veil-split',
-                '4-mesmers-iau-derv',
+                {
+                    type: 'category',
+                    label: 'Nextway',
+                    link: { type: 'doc', id: 'nextway' },
+                    items: [
+                        'nextway-iau',
+                        'nextway-mlk',
+                        'nextway-tk',
+                        'nextway-mop',
+                        'nextway-caller',
+                        'nextway-emo',
+                        'nextway-mt',
+                        'nextway-tt',
+                    ],
+                },
                 {
                     type: 'category',
                     label: '5 Man',

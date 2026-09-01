@@ -42,7 +42,6 @@ const SEARCH_ENTRIES = [
     { title: 'Emo', displayTitle: '5 Man > Emo', path: '/tactics/5man/emo', text: '5 man emo bonds ether renewal rift balthazar spirit' },
     { title: 'Tank', displayTitle: '5 Man > Tank', path: '/tactics/5man/tank', text: '5 man tank shadow form main tank' },
     { title: '5 Mez Veil Split', path: '/tactics/5-mesmers-veil-split', text: '5 mez veil split advanced work in progress' },
-    { title: '4 Mez + Derv', path: '/tactics/4-mesmers-iau-derv', text: '4 mesmer derv iau dervish advanced' },
     { title: 'Mesmer Gear', path: '/tactics/gear/mesmer', text: 'mesmer gear armor weapons runes insignia pcons titles empathy' },
     { title: 'MT Gear', path: '/tactics/gear/mt', text: 'mt gear tank armor weapons' },
     { title: 'TT Gear', path: '/tactics/gear/tt', text: 'tt gear tank armor weapons' },

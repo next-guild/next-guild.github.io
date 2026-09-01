@@ -20,7 +20,6 @@ function Home() {
         '4 Mez 6-0',
         '5 Mez City Split',
         '5 Mez Veil Split',
-        '4 Mez + Derv',
     ];
 
     const teachItems = [

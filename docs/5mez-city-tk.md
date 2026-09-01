@@ -6,7 +6,7 @@ title: TK
 
 # TK
 
-Same role & build as 6-0.
+Covers the former IAU [You Move Like a Dwarf!] targets, then spikes right-side city with MLK and MT.
 
 ## Build
 

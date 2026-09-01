@@ -6,7 +6,7 @@ title: Emo
 
 # Emo
 
-Same build as 6-0, with different recall in city.
+Maintains team bonds, receives TT’s Recall in city, and walks up for the Jadoth transition.
 
 ## Build
 

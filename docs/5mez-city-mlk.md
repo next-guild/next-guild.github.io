@@ -6,7 +6,7 @@ title: MLK
 
 # MLK
 
-Same build as 6-0, with faster city and 360 responsibilities.
+Calls [C-target](/tactics/glossary#c-target), spikes right-side city with TK, and joins VoR and MT for the first two 360 waves.
 
 ## Build
 

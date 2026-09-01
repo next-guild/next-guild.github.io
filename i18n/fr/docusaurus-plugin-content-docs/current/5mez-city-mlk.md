@@ -6,7 +6,7 @@ title: MLK
 
 # MLK
 
-Même build qu'en 6-0, avec des responsabilités plus rapides en city et au 360.
+Gère les [C-target](/tactics/glossary#c-target), spike le côté droit de city avec TK et rejoint VoR et MT pour les deux premières waves de 360.
 
 ## Build
 

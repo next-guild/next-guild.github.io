@@ -6,7 +6,7 @@ title: IAU
 
 # IAU
 
-Same build as 6-0, with more city split responsibility.
+Controls off-damage, helps set up fast city, spikes the left side, and joins Emo for the Gloom rift cap.
 
 ## Build
 
@@ -22,20 +22,20 @@ Use the shared [Mesmer gear](/tactics/gear/mesmer) page as the baseline.
 
 Use this +1 +3 Illusion Magic headpiece instead of the standard Domination Magic headpiece.
 
-[gear name="40/40 Illusion set"]
-[weapon type="Wand" rarity=gold name="Illusion Wand (of memory)" stat="Chaos dmg: 11-22 (Requires 9 Illusion Magic)"]
-[mod effect="Halves skill recharge of Illusion Magic spells (Chance 20%)"][/mod]
-[mod name="&quot;Aptitude not Attitude&quot;" effect="Halves casting time of Illusion Magic spells (Chance 20%)"][/mod]
-[/weapon]
-[weapon type="Focus" rarity=gold name="Illusion Focus (of aptitude)" stat="Energy +12 (Requires 9 Illusion Magic)"]
-[mod effect="Halves casting time of Illusion Magic spells (Chance 20%)"][/mod]
-[mod name="&quot;Forget me not&quot;" effect="Halves skill recharge of Illusion Magic spells (Chance 20%)"][/mod]
+[gear name="Adept Curses Staff of the Necromancer"]
+[weapon type="Staff" rarity=gold name="Adept Curses Staff of the Necromancer" base="Energy +10" stat="Chaos dmg: 11-22 (Requires 9 Curses)"]
+[mod effect="Halves skill recharge of spells (Chance 20%)"][/mod]
+[mod name="&quot;Aptitude not Attitude&quot;" effect="Halves casting time of Curses spells (Chance 20%)"][/mod]
+[mod effect="Halves casting time of Curses spells (Chance 20%)"][/mod]
+[mod effect="Soul Reaping: 5"][/mod]
 [/weapon]
 [/gear]
 
-[gear name="Soul Reaping Illusion set"]
-[weapon type="Wand" rarity=gold name="Illusion Wand (of the Necromancer)" stat="Chaos dmg: 11-22 (Requires 9 Illusion Magic)"]
-[mod effect="Soul Reaping: 5"][/mod]
+### Recommended for Veil
+
+[gear name="40/40 Illusion set"]
+[weapon type="Wand" rarity=gold name="Illusion Wand (of memory)" stat="Chaos dmg: 11-22 (Requires 9 Illusion Magic)"]
+[mod effect="Halves skill recharge of Illusion Magic spells (Chance 20%)"][/mod]
 [mod name="&quot;Aptitude not Attitude&quot;" effect="Halves casting time of Illusion Magic spells (Chance 20%)"][/mod]
 [/weapon]
 [weapon type="Focus" rarity=gold name="Illusion Focus (of aptitude)" stat="Energy +12 (Requires 9 Illusion Magic)"]

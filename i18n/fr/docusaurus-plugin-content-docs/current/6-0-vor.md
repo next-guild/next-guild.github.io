@@ -6,7 +6,7 @@ title: VoR
 
 # VoR
 
-Même rôle qu'en 3-3.
+Main ball spiker et caller ; tue aussi le premier tendril d'Empathy pendant le 6-0.
 
 ## Build
 

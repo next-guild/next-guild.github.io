@@ -6,7 +6,7 @@ title: Emo
 
 # Emo
 
-Même rôle qu'en 3-3, sauf que vous tankez plus d'ennemis en Veil pendant le 6-0.
+Maintient les [Protective Bond] de la team et absorbe davantage de pression en Veil pendant le 6-0.
 
 ## Build
 
