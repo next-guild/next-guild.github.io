@@ -16,6 +16,14 @@ Remplacez [Animate Bone Horror] par [Ancestor's Rage] hors Veil Split.
 
 ## Équipement
 
+[gear name="Armure Radiant Channeling"]
+[armor piece="Headgear" rune="Rune of Superior Channeling Magic +3 / Health -75" insignia="Radiant Insignia / +1 energy" rating=60 base="Channeling Magic +1"]
+[armor piece="Chest" rune="Rune of Superior Vigor / Health +50" insignia="Radiant Insignia / +3 energy" rating=60]
+[armor piece="Hand" rune="Rune of Attunement / +2 energy" insignia="Radiant Insignia / +1 energy" rating=60]
+[armor piece="Leg" rune="Rune of Attunement / +2 energy" insignia="Radiant Insignia / +2 energy" rating=60]
+[armor piece="Footwear" rune="Rune of Attunement / +2 energy" insignia="Radiant Insignia / +1 energy" rating=60]
+[/gear]
+
 [gear name="Bâton Curses fast cast"]
 [weapon type="Staff" rarity=gold name="Adept Curses Staff of the Mesmer" base="Energy +10" stat="Chaos dmg: 11-22 (Requires 9 Curses)"]
 [mod effect="Halves skill recharge of spells (Chance 20%)"][/mod]

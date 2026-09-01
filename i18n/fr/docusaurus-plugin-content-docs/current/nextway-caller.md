@@ -14,6 +14,14 @@ Place [Edge of Extinction], call les knockdowns pour les spikes difficiles et ai
 
 ## Équipement
 
+[gear name="Armure Radiant Earth"]
+[armor piece="Headgear" rune="Rune of Superior Earth Magic +3 / Health -75" insignia="Radiant Insignia / +1 energy" rating=60 base="Earth Magic +1"]
+[armor piece="Chest" rune="Rune of Superior Vigor / Health +50" insignia="Radiant Insignia / +3 energy" rating=60]
+[armor piece="Hand" rune="Rune of Minor Energy Storage +1" insignia="Radiant Insignia / +1 energy" rating=60]
+[armor piece="Leg" rune="Rune of Attunement / +2 energy" insignia="Radiant Insignia / +2 energy" rating=60]
+[armor piece="Footwear" rune="Rune of Attunement / +2 energy" insignia="Radiant Insignia / +1 energy" rating=60]
+[/gear]
+
 [gear name="Bâton Earth fast cast"]
 [weapon type="Staff" rarity=gold name="Adept Earth Staff of the Mesmer" base="Energy +10" stat="Earth dmg: 11-22 (Requires 9 Earth Magic)"]
 [mod effect="Halves skill recharge of spells (Chance 20%)"][/mod]
