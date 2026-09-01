@@ -23,7 +23,7 @@ Places [Edge of Extinction], calls knockdowns for difficult spikes, and helps ma
 [/gear]
 
 [gear name="Fast cast Earth staff"]
-[weapon type="Staff" rarity=gold name="Adept Earth Staff of the Mesmer" base="Energy +10" stat="Earth dmg: 11-22 (Requires 9 Earth Magic)"]
+[weapon type="Staff" rarity=gold name="Insightful Earth Staff of the Mesmer" base="Energy +10" stat="Earth dmg: 11-22 (Requires 9 Earth Magic)"]
 [mod effect="Halves skill recharge of spells (Chance 20%)"][/mod]
 [mod name="&quot;Have Faith&quot;" effect="Energy +5 (while Enchanted)"][/mod]
 [mod effect="Energy +5"][/mod]
@@ -32,7 +32,7 @@ Places [Edge of Extinction], calls knockdowns for difficult spikes, and helps ma
 [/gear]
 
 [gear name="Energy management Earth staff"]
-[weapon type="Staff" rarity=gold name="Adept Earth Staff of the Necromancer" base="Energy +10" stat="Earth dmg: 11-22 (Requires 9 Earth Magic)"]
+[weapon type="Staff" rarity=gold name="Insightful Earth Staff of the Necromancer" base="Energy +10" stat="Earth dmg: 11-22 (Requires 9 Earth Magic)"]
 [mod effect="Halves skill recharge of spells (Chance 20%)"][/mod]
 [mod name="&quot;Have Faith&quot;" effect="Energy +5 (while Enchanted)"][/mod]
 [mod effect="Energy +5"][/mod]
