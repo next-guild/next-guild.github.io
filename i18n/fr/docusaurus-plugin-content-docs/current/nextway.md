@@ -7,7 +7,7 @@ sidebar_label: Nextway
 
 # Nextway
 
-Nextway est une variante 6-0 construite autour d'un IAU [Vow of Strength], d'un MoP [Mark of Pain] et d'un Caller ; elle remplace l'UA et le VoR. Elle propose une route standard ainsi que des variantes City Split et Veil Split.
+Nextway est une variante 6-0 construite autour d'un IAU [Vow of Strength], d'un ritualiste [Mark of Pain] et d'un Caller ; elle remplace l'UA et le VoR. Elle propose une route standard ainsi que des variantes City Split et Veil Split.
 
 ## Rôles
 

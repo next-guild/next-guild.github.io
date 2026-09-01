@@ -20,6 +20,7 @@ function Home() {
         '4 Mez 6-0',
         '5 Mez City Split',
         '5 Mez Veil Split',
+        'Nextway',
     ];
 
     const teachItems = [
