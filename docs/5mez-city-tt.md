@@ -24,4 +24,4 @@ Use the shared [TT gear](/tactics/gear/tt) page as the baseline.
 - The early city middle group kill allows you to make a faster ball.
 - During the city inner split, you're left side with VoR, MeMo, and IAU.
 - Recall out to Emo after Emo walks up to Jadoth.
-- After recalling out, use a [con]Seal of the dragon empire[/con] so you can use [Shadow Form] and [Death's Charge] to start an instant Jadoth ball.
+- After recalling out, use [Shadow Form] and [Death's Charge] to start an instant Jadoth ball.
