@@ -25,7 +25,7 @@ Main ball spiker [Vow of Strength] qui suit les calls [Mark of Pain], fait les t
 [gear name="Armure high health pour elementalist lord"]
 [armor piece="Headgear" rune="Rune of Life / Health +10" insignia="Windwalker Insignia / Armor +5 (while affected by 1 or more Enchantment Spells)" rating=70 base="Earth Prayers +1"]
 [armor piece="Chest" rune="Rune of Superior Vigor / Health +50" insignia="Windwalker Insignia / Armor +5 (while affected by 1 or more Enchantment Spells)" rating=70]
-[armor piece="Hand" rune="Rune of Life / Health +10" insignia="Windwalker Insignia / Armor +5 (while affected by 1 or more Enchantment Spells)" rating=70]
+[armor piece="Hand" rune="Rune of Minor Mysticism +1" insignia="Windwalker Insignia / Armor +5 (while affected by 1 or more Enchantment Spells)" rating=70]
 [armor piece="Leg" rune="Rune of Life / Health +10" insignia="Windwalker Insignia / Armor +5 (while affected by 1 or more Enchantment Spells)" rating=70]
 [armor piece="Footwear" rune="Rune of Life / Health +10" insignia="Windwalker Insignia / Armor +5 (while affected by 1 or more Enchantment Spells)" rating=70]
 [/gear]
@@ -47,6 +47,17 @@ Les Windwalker Insignias donnent +5 d'armure avec un enchantement ou plus, jusqu
 [mod effect="Soul Reaping: 5"][/mod]
 [/weapon]
 [/gear]
+
+[gear name="Defensive set"]
+[weapon type="Sword" rarity=gold name="Sword of Defense" stat="Slashing dmg: 10-10"]
+[mod effect="Armor +5"][/mod]
+[/weapon]
+[weapon type="Shield" rarity=gold name="Shield of Devotion" stat="Armor: 16 (Requires 9 Tactics)"]
+[mod name="&quot;Not the face!&quot;" effect="Armor +10 (vs Blunt damage)"][/mod]
+[mod effect="Health +45 (while Enchanted)"][/mod]
+[/weapon]
+[/gear]
+
 
 [cons name="Consommables additionnels requis (en veil split solo ranger lord)"]
 [Imperial Guard Reinforcement Order]
