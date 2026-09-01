@@ -24,7 +24,7 @@ Nextway is a 6-0 variant built around a [Vow of Strength] IAU, a [Mark of Pain] 
 
 ## Team build
 
-[bar IAU;Ogek8Jp6Kzik513m2VzFNJuDCEAA]
+[bar IAU;Ogek8Jp6Kzik513m2VzFNJuDCUnD]
 
 [bar MLK;OQNDAsw9QbAuNmOTP0laAcASEA]
 

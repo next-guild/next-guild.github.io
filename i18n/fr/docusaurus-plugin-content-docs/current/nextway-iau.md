@@ -10,7 +10,7 @@ Main ball spiker [Vow of Strength] qui suit les calls [Mark of Pain], fait les t
 
 ## Build
 
-[IAU;Ogek8Jp6Kzik513m2VzFNJuDCEAA]
+[IAU;Ogek8Jp6Kzik513m2VzFNJuDCUnD]
 
 ## Équipement
 

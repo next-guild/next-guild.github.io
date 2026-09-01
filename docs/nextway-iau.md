@@ -10,7 +10,7 @@ A [Vow of Strength] main ball spiker who follows [Mark of Pain] calls, handles I
 
 ## Build
 
-[IAU;Ogek8Jp6Kzik513m2VzFNJuDCEAA]
+[IAU;Ogek8Jp6Kzik513m2VzFNJuDCUnD]
 
 ## Gear
 
