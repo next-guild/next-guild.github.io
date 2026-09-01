@@ -53,7 +53,7 @@ _Moved 6-0 spike spot, clear of the remaining monk-trench groups._
 ### City Split
 
 - TK and MoP spike left-side City. Caller spikes the right side and takes the Jadoth quest.
-- TT puts [Recall] on Emo after the inner spike, then uses [Recall] to leave, seals, and uses [Death's Charge] to start Jadoth.
+- TT puts [Recall] on Emo before going inside City, then uses [Recall] to leave after the inner spike, refreshes [Shadow form] and uses [Death's Charge] to start Jadoth.
 - MT does not put [Recall] on Emo. After the inner spike, MT puts [Recall] on IAU to enter Veil quickly.
 
 ### Veil Split

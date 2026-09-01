@@ -53,7 +53,7 @@ _Spot de spike 6-0 décalé, loin des groupes restants de monk trench._
 ### City Split
 
 - TK et MoP spike le côté gauche de City. Caller spike le côté droit et prend la quête Jadoth.
-- TT met [Recall] sur l'Emo après l'inner spike, utilise [Recall] pour sortir, seal puis utilise [Death's Charge] pour commencer Jadoth.
+- TT met [Recall] sur l'Emo avant d'entrer dans city, utilise [Recall] pour sortir après la spike inner, rafraîchit [Shadow form] puis utilise [Death's Charge] pour commencer Jadoth.
 - MT ne met pas [Recall] sur l'Emo. Après l'inner spike, MT met [Recall] sur l'IAU pour aller rapidement en Veil.
 
 ### Veil Split
