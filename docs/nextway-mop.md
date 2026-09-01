@@ -12,7 +12,7 @@ Calls [Mark of Pain] spikes, supports [C-target](/tactics/glossary#c-target), an
 
 [MoP;OASjcwgjITkT5BYMTB0l3g2kWCA]
 
-Replace [Animate Bone Horror] with [Ancestor's Rage] outside the Veil Split.
+Replace [Animate Bone Horror] with [Ancestor's Rage] when not doing Veil Split.
 
 ## Gear
 
