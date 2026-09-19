@@ -32,17 +32,17 @@ A [Vow of Strength] main ball spiker who follows [Mark of Pain] calls, handles I
 
 Windwalker Insignias gain +5 armor with one or more enchantments, up to +20 armor at four enchantments.
 
-[gear name="Vampiric Scythe of Demonslaying (DPS)"]
-[weapon type="Scythe" rarity=gold name="Vampiric Scythe of Demonslaying" stat="Scythe dmg: 9-41 (Requires 9 Scythe Mastery)"]
+[gear name="Regular set"]
+[weapon type="Scythe" rarity=gold name="Vampiric Scythe of the Necromancer" stat="Scythe dmg: 9-41 (Requires 9 Scythe Mastery)"]
 [mod name="&quot;Guided by Fate&quot;" effect="Damage +15% (while Enchanted)"][/mod]
 [mod effect="Life draining: 5 / Health regeneration: -1"][/mod]
-[mod effect="Damage +20% (against Demons)"][/mod]
+[mod effect="Soul Reaping: 5"][/mod]
 [/weapon]
 [/gear]
 
-[gear name="Vampiric Scythe of the Necromancer (energy management)"]
+[gear name="Optional DPS scythe when hexed"]
 [weapon type="Scythe" rarity=gold name="Vampiric Scythe of the Necromancer" stat="Scythe dmg: 9-41 (Requires 9 Scythe Mastery)"]
-[mod name="&quot;Guided by Fate&quot;" effect="Damage +15% (while Enchanted)"][/mod]
+[mod name="&quot;Don't fear the reaper&quot;" effect="Damage +20% (while Hexed)"][/mod]
 [mod effect="Life draining: 5 / Health regeneration: -1"][/mod]
 [mod effect="Soul Reaping: 5"][/mod]
 [/weapon]
