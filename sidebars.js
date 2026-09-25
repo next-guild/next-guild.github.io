@@ -45,6 +45,21 @@ module.exports = {
                 },
                 {
                     type: 'category',
+                    label: '6-0 Rojway',
+                    link: { type: 'doc', id: '6-0-rojway' },
+                    items: [
+                        'rojway-mt',
+                        'rojway-tt',
+                        'rojway-tk',
+                        'rojway-mantra',
+                        'rojway-iau',
+                        'rojway-mlk',
+                        'rojway-ua',
+                        'rojway-emo',
+                    ],
+                },
+                {
+                    type: 'category',
                     label: '5 Mez City Split',
                     link: { type: 'doc', id: '5-mesmers-city-split' },
                     items: [
@@ -59,21 +74,6 @@ module.exports = {
                     ],
                 },
                 '5-mesmers-veil-split',
-                {
-                    type: 'category',
-                    label: '6-0 Rojway',
-                    link: { type: 'doc', id: '6-0-rojway' },
-                    items: [
-                        'rojway-mt',
-                        'rojway-tt',
-                        'rojway-tk',
-                        'rojway-mantra',
-                        'rojway-iau',
-                        'rojway-mlk',
-                        'rojway-ua',
-                        'rojway-emo',
-                    ],
-                },
                 {
                     type: 'category',
                     label: 'Nextway',
