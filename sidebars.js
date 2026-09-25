@@ -30,7 +30,7 @@ module.exports = {
                 },
                 {
                     type: 'category',
-                    label: '6-0',
+                    label: '6-0 Mezway',
                     link: { type: 'doc', id: '4-mesmers-6-0' },
                     items: [
                         '6-0-iau',
@@ -59,6 +59,21 @@ module.exports = {
                     ],
                 },
                 '5-mesmers-veil-split',
+                {
+                    type: 'category',
+                    label: '6-0 Rojway',
+                    link: { type: 'doc', id: '6-0-rojway' },
+                    items: [
+                        'rojway-mt',
+                        'rojway-tt',
+                        'rojway-tk',
+                        'rojway-mantra',
+                        'rojway-iau',
+                        'rojway-mlk',
+                        'rojway-ua',
+                        'rojway-emo',
+                    ],
+                },
                 {
                     type: 'category',
                     label: 'Nextway',
@@ -93,6 +108,7 @@ module.exports = {
             label: 'Gear',
             items: [
                 'gear-mesmer',
+                'gear-smiting-monk',
                 'gear-mt',
                 'gear-tt',
                 'gear-emo',

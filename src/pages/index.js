@@ -17,10 +17,11 @@ function Home() {
     }, []);
 
     const advancedItems = [
-        '4 Mez 6-0',
+        '6-0 Mezway',
         '5 Mez City Split',
         '5 Mez Veil Split',
         'Nextway',
+        '6-0 Rojway',
     ];
 
     const teachItems = [

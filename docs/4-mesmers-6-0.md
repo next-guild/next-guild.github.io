@@ -1,11 +1,11 @@
 ---
 id: 4-mesmers-6-0
 slug: 4-mesmers-6-0
-title: 4 Mez 6-0
-sidebar_label: 6-0
+title: 6-0 Mezway
+sidebar_label: 6-0 Mezway
 ---
 
-# 4 Mez 6-0
+# 6-0 Mezway
 
 6-0 is the most commonly played format for experienced players, it trades some safety for speed.
 
