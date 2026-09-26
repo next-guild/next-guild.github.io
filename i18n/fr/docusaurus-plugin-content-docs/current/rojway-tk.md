@@ -11,6 +11,10 @@ Fait les tendrils TK et crowd control.
 
 [TK;OQdTAYB/H6mKEa6pJQuEnymszB]
 
+### Variante : TK Burden
+
+[TK Burden;OQdDAcMCTNBEOTP4Uylxk2kdO]
+
 ## Équipement et consommables
 
 Utilisez l'[équipement mesmer](/tactics/gear/mesmer) et les pcons indiqués sur cette page.

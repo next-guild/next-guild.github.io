@@ -11,9 +11,22 @@ Seeder who supports the team with Ebon Battle Standard of Wisdom at key spikes.
 
 [UA;OwITA5nZXCgghIH8uiu8BEXE6A]
 
+### Alternative: Smiter seeder
+
+[Smiter seeder;OwIUYXY522RQHME3DQESE5g4i0l]
+
+With this variant, Seeder can join Emo for the Gloom rift cap, but must have the Vampiric Anniversary Hammer of Demonslaying listed below.
+
 ## Gear and consumables
 
 Use the shared [ua gear](/tactics/gear/ua) and the pcons listed there.
+
+[gear name="Required rift-cap weapon for Smiter seeder"]
+[weapon type="Hammer" rarity=gold name="Vampiric Anniversary Hammer of Demonslaying" stat="Damage: 19-35 (Requires 9 Divine Favor)"]
+[mod effect="Life draining: 5 / Health regeneration: -1"][/mod]
+[mod effect="Damage +20% (against Demons)"][/mod]
+[/weapon]
+[/gear]
 
 ## Titles
 

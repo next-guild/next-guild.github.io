@@ -11,6 +11,10 @@ Handles the TK tendrils & provides crowd control.
 
 [TK;OQdTAYB/H6mKEa6pJQuEnymszB]
 
+### Alternative: TK Burden
+
+[TK Burden;OQdDAcMCTNBEOTP4Uylxk2kdO]
+
 ## Gear and consumables
 
 Use the shared [mesmer gear](/tactics/gear/mesmer) and the pcons listed there.
