@@ -11,8 +11,6 @@ Call les spikes tout en gérant l'off-damage ; reste avec la team pendant toute 
 
 [Mantra;OwUD4swzQLB+M3DRA0l4U2k2i]
 
-Vous pouvez prendre [Air of Superiority] à la place de [Finish Him!].
-
 ## Équipement et consommables
 
 Utilisez l'[équipement Smiter](/tactics/gear/smiting-monk) et les pcons indiqués sur cette page.

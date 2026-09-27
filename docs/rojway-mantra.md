@@ -11,8 +11,6 @@ Calls spikes while handling off-damage; stays with the team throughout the run.
 
 [Mantra;OwUD4swzQLB+M3DRA0l4U2k2i]
 
-You can take [Air of Superiority] instead of [Finish Him!].
-
 ## Gear and consumables
 
 Use the shared [Smiter gear](/tactics/gear/smiting-monk) and the pcons listed there.
