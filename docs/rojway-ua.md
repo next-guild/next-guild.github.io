@@ -23,6 +23,7 @@ Use the shared [ua gear](/tactics/gear/ua) and the pcons listed there.
 
 [gear name="Required rift-cap weapon for Smiter seeder"]
 [weapon type="Hammer" rarity=gold name="Vampiric Anniversary Hammer of Demonslaying" stat="Damage: 19-35 (Requires 9 Divine Favor)"]
+[mod name="&quot;Guided by Fate&quot;" effect="Damage +15% (while Enchanted)"][/mod]
 [mod effect="Life draining: 5 / Health regeneration: -1"][/mod]
 [mod effect="Damage +20% (against Demons)"][/mod]
 [/weapon]
