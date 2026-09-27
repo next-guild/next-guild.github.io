@@ -15,6 +15,14 @@ Bonds the team as in regular 6-0. MLK joins Emo for the Gloom rift cap.
 
 Use the shared [emo gear](/tactics/gear/emo) and the pcons listed there.
 
+[gear name="Recommended rift-cap weapon"]
+[weapon type="Axe" rarity=gold name="Vampiric Anniversary Axe of Demonslaying" stat="Damage: 6-28 (Requires 9 Energy Storage)"]
+[mod name="&quot;Guided by Fate&quot;" effect="Damage +15% (while Enchanted)"][/mod]
+[mod effect="Life draining: 5 / Health regeneration: -1"][/mod]
+[mod effect="Damage +20% (against Demons)"][/mod]
+[/weapon]
+[/gear]
+
 ## Notes
 
 Follow the [regular 6-0 Emo guide](/tactics/4-mesmers-6-0/emo), including its gear, titles, and role guidance, with the Rojway build above.
