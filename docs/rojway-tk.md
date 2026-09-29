@@ -5,28 +5,25 @@ title: TK
 ---
 # TK
 
-Handles the TK tendrils & provides crowd control.
+Smiter Monk who kills the TK tendril pair.
 
 ## Build
 
-[TK;OQdTAYB/H6mKEa6pJQuEnymszB]
-
-### Alternative: TK Burden
-
-[TK Burden;OQdDAcMCTNBEOTP4Uylxk2kdO]
+[TK;OwcTAZH/HSu0n5eg6jfIm0mszB]
 
 ## Gear and consumables
 
-Use the shared [mesmer gear](/tactics/gear/mesmer) and the pcons listed there.
+Use the shared [Smiter gear](/tactics/gear/smiting-monk) and the pcons listed there.
 
 ## Titles
 
 [titles name="Required title tracks"]
 [title name="Norn" rank=5][/title]
+[title name="Asura" rank=5][/title]
 [/titles]
 
 ## Notes
 
-- Do the usual 6-0 TK tendrils with the build above.
+- Kill the tendrils with [Pain Inverter] + [Banish] on one, and [Ray of Judgment] → [Symbol of Wrath] → [You Move Like a Dwarf!] on the other.
 
-- On City wall, each spiker casts one AoE on each mob. Bring the three middle Manks to 50% health without wasting more AoE on them; kill the first and last Manks. MLK starts with [Ray of Judgment] on the first Su and [You Move Like a Dwarf!] plus [Wastrel's Demise] on the first Mank.
+- On City wall, use one AoE on the first and last Mank and on every Su.

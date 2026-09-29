@@ -9,7 +9,7 @@ Spiker Smiting qui démarre le City wall et rejoint Emo pour cap la rift en Gloo
 
 ## Build
 
-[MLK;OwUTAHHLYaJwn5eoJgucV0m8mC]
+[MLK;OwUCIsz0SgPz9wNFO1qoNJdJ]
 
 ## Équipement et consommables
 
@@ -25,6 +25,14 @@ Utilisez l'[équipement Smiter](/tactics/gear/smiting-monk) et les pcons indiqu�
 
 ## Notes
 
-- En Gloom, allez avec Emo pour cap la rift.
+- Sur les spikes au glitch spot, utilisez [Ray of Judgment] et [Symbol of Wrath] quand les ennemis sont à environ 50% HP.
 
-- Au City wall, chaque spiker lance une AoE sur chaque mob. Descendez les trois Manks du milieu à 50% HP sans gaspiller davantage d'AoE ; tuez le premier et le dernier Mank. MLK commence avec [Ray of Judgment] sur le premier Su et [You Move Like a Dwarf!] puis [Wastrel's Demise] sur le premier Mank.
+- Au glitch spot MLK, lancez un [Wastrel's Demise] assez tôt avant le lord, dès que vous prenez l'aggro de la dernière wave qui arrive. Cela met [Arcane Echo] en recharge plus tôt pour qu'il soit disponible pour tuer le lord.
+
+- Pour tuer le lord ML : [Arcane Echo] → [Ray of Judgment] / [Great Dwarf Weapon] sur le tank → [Ray of Judgment] / [Symbol of Wrath] → [Spiritual Pain] → [You Move Like a Dwarf!] à 60% HP, ou plus tôt s'il bouge.
+
+- En room 2, si les spawns sont mauvais, donnez la priorité à [Great Dwarf Weapon] sur les tanks plutôt qu'à vos compétences Smiting.
+
+- En Gloom, allez avec Emo pour cap la rift ; le Seeder peut aussi l'accompagner avec l'équipement indiqué sur sa page.
+
+- Au City wall, utilisez une AoE sur le premier et le dernier Mank, ainsi que sur chaque Su.

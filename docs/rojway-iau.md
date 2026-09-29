@@ -9,7 +9,7 @@ Smiting spiker who covers left-side off-damage and the IAU tendril pair.
 
 ## Build
 
-[IAU;OwUTAHHLYaJwn5eoJguEnimMmE]
+[IAU;OwUT44BDHaJwn5eICgfgm0mkuE]
 
 ## Gear and consumables
 
@@ -24,8 +24,12 @@ Use the shared [Smiter gear](/tactics/gear/smiting-monk) and the pcons listed th
 
 ## Notes
 
-- For a wide ball such as Jadoth, cover left-side off-damage while Mantra takes the right. Keep that assignment when several off-damage groups need attention.
-- At 6-0, [Arcane Echo] + [Ray of Judgment] on one tendril, [Ray of Judgment] the other, then use [Chaos Storm] on one and [Symbol of Wrath] on the other. Start with the farthest tendril and aim to finish both together.
-- Be especially careful of getting stuck on the way back: this build has no [Heart of Shadow]. Mantra can hang back to offer an [Ebon Escape] target, but keep the back pop inside the aggro bubble so it does not break.
+- For tendrils, use [Arcane Echo] → [Ray of Judgment] → [Symbol of Wrath] → [You Move Like a Dwarf!] on the back tendril. On the front tendril, have the caller apply [Chaos Storm], then use [Ray of Judgment], followed by [You Move Like a Dwarf!] and repeated [Banish] until it dies. Communicate with MT so they give you enough room with the back spawns on the pull.
 
-- On City wall, each spiker casts one AoE on each mob. Bring the three middle Manks to 50% health without wasting more AoE on them; kill the first and last Manks. MLK starts with [Ray of Judgment] on the first Su and [You Move Like a Dwarf!] plus [Wastrel's Demise] on the first Mank.
+- You handle off-damage throughout the run. Use [Mantra of Resolve] to avoid interrupts.
+
+- Pull and wall the last wave of 360. Use [Mantra of Resolve] to spike; Seeder supports you with [Healing Seed].
+
+- Handle left-side off-damage at 6-0. If the ball is messy, also help with nearby main damage on the left: City, Fury, the Dementia wave in room 2, and 6-0 after off-damage.
+
+- On City wall, use one AoE on the first and last Mank and on every Su.

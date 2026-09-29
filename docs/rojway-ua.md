@@ -9,13 +9,9 @@ Seeder who supports the team with Ebon Battle Standard of Wisdom at key spikes.
 
 ## Build
 
-[UA;OwITA5nZXCgghIH8uiu8BEXE6A]
+[UA;OwIUYXY522RQHME3DQESE5g4i0l]
 
-### Alternative: Smiter seeder
-
-[Smiter seeder;OwIUYXY522RQHME3DQESE5g4i0l]
-
-With this variant, Seeder can join Emo for the Gloom rift cap, but must have the Vampiric Anniversary Hammer of Demonslaying listed below.
+Seeder can join Emo for the Gloom rift cap with the Vampiric Anniversary Hammer of Demonslaying listed below.
 
 ## Gear and consumables
 
@@ -37,5 +33,10 @@ Use the shared [ua gear](/tactics/gear/ua) and the pcons listed there.
 
 ## Notes
 
-- [Ebon Battle Standard of Wisdom] is mandatory in Foundry room 2 wave 2; room 4 waves 3 and 4 if the spawn is bad; Black Beast wave 1; turtle; 6-0; and Darknesses. Elsewhere, use it only when you have nothing else to do and can spare the energy.
-- If MLK is late at 6-0, Mantra handles the MLK and VoR tendrils. After Mantra's [Ray of Judgment] and [Symbol of Wrath], auto-attack the MLK tendril with Emo to finish it, and use [Ebon Battle Standard of Wisdom] to help Mantra's cooldowns.
+- You are a support player first. Do not focus on damage and forget [Seed of Life] or [Healing Seed] at critical moments.
+
+- Use [Ebon Battle Standard of Wisdom] when faster cooldowns are valuable, especially in Foundry rooms, Black Beast, and Darknesses. Call its location to remind the Monks to use it.
+
+- To kill your claw at the rift, or the MLK tendril if MLK is late, cast your enchantments with an enchanting weapon and maximise [Balthazar's Aura] on yourself. Also auto-attack with the anniversary hammer or a staff.
+
+- Cast [Healing Seed] on IAU for the last wave of 360, when IAU is pulling. Account for its cast time.

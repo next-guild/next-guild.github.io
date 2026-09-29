@@ -9,13 +9,9 @@ Seeder qui soutient la team avec Ebon Battle Standard of Wisdom sur les spikes i
 
 ## Build
 
-[UA;OwITA5nZXCgghIH8uiu8BEXE6A]
+[UA;OwIUYXY522RQHME3DQESE5g4i0l]
 
-### Variante : Smiter seeder
-
-[Smiter seeder;OwIUYXY522RQHME3DQESE5g4i0l]
-
-Avec cette variante, le Seeder peut rejoindre Emo pour le cap de la rift en Gloom, mais doit posséder le Vampiric Anniversary Hammer of Demonslaying indiqué ci-dessous.
+Le Seeder peut rejoindre Emo pour cap la rift en Gloom avec le Vampiric Anniversary Hammer of Demonslaying indiqué ci-dessous.
 
 ## Équipement et consommables
 
@@ -37,5 +33,10 @@ Utilisez l'[équipement ua](/tactics/gear/ua) et les pcons indiqués sur cette p
 
 ## Notes
 
-- [Ebon Battle Standard of Wisdom] est obligatoire en Foundry room 2 wave 2 ; room 4 waves 3 et 4 en cas de mauvais spawn ; Black Beast wave 1 ; turtle ; 6-0 ; et Darknesses. Ailleurs, utilisez-le seulement si vous n'avez rien d'autre à faire et assez d'énergie.
-- Si MLK est en retard au 6-0, Mantra fait les tendrils MLK et VoR. Après son [Ray of Judgment] et [Symbol of Wrath], finissez le tendril MLK à l'auto-attaque avec Emo et utilisez [Ebon Battle Standard of Wisdom] pour aider les cooldowns de Mantra.
+- Vous êtes avant tout un joueur de support. Ne privilégiez pas vos dégâts au point d'oublier [Seed of Life] ou [Healing Seed] aux moments critiques.
+
+- Utilisez [Ebon Battle Standard of Wisdom] quand les recharges plus rapides sont utiles, notamment dans les rooms de Foundry, au Black Beast et aux Darknesses. Annoncez sa position pour rappeler aux moines de l'utiliser.
+
+- Pour tuer votre claw à la rift, ou le tendril MLK s'il est en retard, lancez vos enchantements avec une arme qui prolonge leur durée et maximisez l'effet de [Balthazar's Aura] sur vous-même. Auto-attaquez aussi avec le marteau anniversaire ou un bâton.
+
+- Lancez [Healing Seed] sur IAU pendant la dernière wave de 360 : c'est IAU qui pull. Anticipez le temps d'incantation.

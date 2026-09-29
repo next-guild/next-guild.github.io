@@ -17,4 +17,8 @@ Use the shared [tt gear](/tactics/gear/tt) and the pcons listed there.
 
 ## Notes
 
-Follow the [regular 6-0 TT guide](/tactics/4-mesmers-6-0/tt), including its gear, titles, and role guidance, with the Rojway build above.
+- Follow the [regular 6-0 TT guide](/tactics/4-mesmers-6-0/tt), including its gear, titles, and role guidance, with the Rojway build above.
+
+- At ML, stand on the opposite side of the ML lord from MLK and attack with daggers.
+
+- The Fury spike is surprisingly resilient, but take an extra half-second to get a decent ball.

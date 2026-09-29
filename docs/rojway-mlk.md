@@ -9,7 +9,7 @@ Smiting spiker who starts City wall and joins Emo for the Gloom rift cap.
 
 ## Build
 
-[MLK;OwUTAHHLYaJwn5eoJgucV0m8mC]
+[MLK;OwUCIsz0SgPz9wNFO1qoNJdJ]
 
 ## Gear and consumables
 
@@ -25,6 +25,14 @@ Use the shared [Smiter gear](/tactics/gear/smiting-monk) and the pcons listed th
 
 ## Notes
 
-- In Gloom, go with Emo to cap the rift.
+- Use [Ray of Judgment] and [Symbol of Wrath] for glitch-spot spikes when enemies are at around 50% health.
 
-- On City wall, each spiker casts one AoE on each mob. Bring the three middle Manks to 50% health without wasting more AoE on them; kill the first and last Manks. MLK starts with [Ray of Judgment] on the first Su and [You Move Like a Dwarf!] plus [Wastrel's Demise] on the first Mank.
+- Cast one [Wastrel's Demise] early at the MLK glitch spot before the lord, as you get aggro from the incoming last wave. This puts [Arcane Echo] on cooldown sooner so it is available for the lord kill.
+
+- To kill the ML lord: [Arcane Echo] → [Ray of Judgment] / [Great Dwarf Weapon] on the tank → [Ray of Judgment] / [Symbol of Wrath] → [Spiritual Pain] → [You Move Like a Dwarf!] at 60% health, or earlier if he moves.
+
+- In room 2, prioritise [Great Dwarf Weapon] on tanks over your Smiting skills if spawns are bad.
+
+- In Gloom, join Emo for the rift cap; Seeder can also accompany Emo with the gear listed on the Seeder page.
+
+- On City wall, use one AoE on the first and last Mank and on every Su.

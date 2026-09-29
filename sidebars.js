@@ -50,8 +50,8 @@ module.exports = {
                     items: [
                         'rojway-mt',
                         'rojway-tt',
+                        'rojway-caller',
                         'rojway-tk',
-                        'rojway-mantra',
                         'rojway-iau',
                         'rojway-mlk',
                         'rojway-ua',

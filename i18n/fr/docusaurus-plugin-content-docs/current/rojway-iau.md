@@ -9,7 +9,7 @@ Spiker Smiting qui gère l'off-damage à gauche et la paire de tendrils IAU.
 
 ## Build
 
-[IAU;OwUTAHHLYaJwn5eoJguEnimMmE]
+[IAU;OwUT44BDHaJwn5eICgfgm0mkuE]
 
 ## Équipement et consommables
 
@@ -24,8 +24,12 @@ Utilisez l'[équipement Smiter](/tactics/gear/smiting-monk) et les pcons indiqu�
 
 ## Notes
 
-- Sur une ball large comme Jadoth, gérez l'off-damage à gauche, Mantra prenant la droite. Gardez cette répartition avec plusieurs groupes off-damage.
-- Au 6-0, [Arcane Echo] + [Ray of Judgment] sur un tendril, [Ray of Judgment] sur l'autre, puis [Chaos Storm] sur l'un et [Symbol of Wrath] sur l'autre. Commencez par le plus éloigné et essayez de finir les deux ensemble.
-- Attention aux stucks au retour : ce build n'a pas [Heart of Shadow]. Mantra peut rester en arrière pour offrir une cible [Ebon Escape], mais gardez le back pop dans la bulle d'aggro pour ne pas le perdre.
+- Pour les tendrils : [Arcane Echo] → [Ray of Judgment] → [Symbol of Wrath] → [You Move Like a Dwarf!] sur celui du fond. Sur celui de devant, le caller doit poser [Chaos Storm] ; enchaînez [Ray of Judgment], puis [You Move Like a Dwarf!] et [Banish] jusqu'à sa mort. Communiquez avec MT pour qu'il vous laisse assez de marge avec les back spawns pendant le pull.
 
-- Au City wall, chaque spiker lance une AoE sur chaque mob. Descendez les trois Manks du milieu à 50% HP sans gaspiller davantage d'AoE ; tuez le premier et le dernier Mank. MLK commence avec [Ray of Judgment] sur le premier Su et [You Move Like a Dwarf!] puis [Wastrel's Demise] sur le premier Mank.
+- Vous gérez l'off-damage pendant toute la run. Utilisez [Mantra of Resolve] pour éviter les interruptions.
+
+- Vous pullez et wallez la dernière wave de 360. Utilisez [Mantra of Resolve] pour spike ; le Seeder vous soutient avec [Healing Seed].
+
+- Au 6-0, gérez l'off-damage à gauche. Si la ball est désordonnée, aidez aussi sur le main damage proche à gauche : City, Fury, wave de Dementia en room 2 et 6-0 après l'off-damage.
+
+- Au City wall, utilisez une AoE sur le premier et le dernier Mank, ainsi que sur chaque Su.
