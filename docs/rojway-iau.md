@@ -30,6 +30,6 @@ Use the shared [Smiter gear](/tactics/gear/smiting-monk) and the pcons listed th
 
 - Pull and wall the last wave of 360. Use [Mantra of Resolve] to spike; Seeder supports you with [Healing Seed].
 
-- Handle left-side off-damage at 6-0. If the ball is messy, also help with nearby main damage on the left: City, Fury, the Dementia wave in room 2, and 6-0 after off-damage.
+- Handle left-side off-damage at 6-0. If the ball is messy, also help with nearby main damage on the left: City, Fury, the Dementia wave 2 in room 4, and 6-0 after off-damage.
 
 - On City wall, use one AoE on the first and last Mank and on every Su.

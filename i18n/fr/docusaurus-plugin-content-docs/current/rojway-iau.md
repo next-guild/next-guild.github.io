@@ -30,6 +30,6 @@ Utilisez l'[équipement Smiter](/tactics/gear/smiting-monk) et les pcons indiqu�
 
 - Vous pullez et wallez la dernière wave de 360. Utilisez [Mantra of Resolve] pour spike ; le Seeder vous soutient avec [Healing Seed].
 
-- Au 6-0, gérez l'off-damage à gauche. Si la ball est désordonnée, aidez aussi sur le main damage proche à gauche : City, Fury, wave de Dementia en room 2 et 6-0 après l'off-damage.
+- Au 6-0, gérez l'off-damage à gauche. Si la ball est désordonnée, aidez aussi sur le main damage proche à gauche : City, Fury, wave 2 de Dementia en room 4 et 6-0 après l'off-damage.
 
 - Au City wall, utilisez une AoE sur le premier et le dernier Mank, ainsi que sur chaque Su.
