@@ -40,3 +40,5 @@ Use the shared [ua gear](/tactics/gear/ua) and the pcons listed there.
 - To kill your claw at the rift, or the MLK tendril if MLK is late, cast your enchantments with an enchanting weapon and maximise [Balthazar's Aura] on yourself. Also auto-attack with the anniversary hammer or a staff.
 
 - Cast [Healing Seed] on IAU for the last wave of 360, when IAU is pulling. Account for its cast time.
+
+- For the first wave of 360 in Veil, place [Edge of Extinction] under [Quickening Zephyr] at Jadoth, then go with MLK and MT. Place another [Edge of Extinction] at the Dervish lord gates.

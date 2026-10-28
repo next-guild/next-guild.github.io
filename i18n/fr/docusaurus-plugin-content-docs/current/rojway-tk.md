@@ -24,6 +24,10 @@ Utilisez l'[équipement Smiter](/tactics/gear/smiting-monk) et les pcons indiqu�
 
 ## Notes
 
+- **Sur les balls larges, TK gère les dégâts devant et à gauche.**
+
 - Pour tuer les tendrils, utilisez [Pain Inverter] + [Banish] sur l'un, puis [Ray of Judgment] → [Symbol of Wrath] → [You Move Like a Dwarf!] sur l'autre.
 
 - Au City wall, utilisez une AoE sur le premier et le dernier Mank, ainsi que sur chaque Su.
+
+- La gestion des C-targets est partagée : toute personne avec [You Move Like a Dwarf!] et [Banish] ou [Spiritual Pain] peut s'en charger.

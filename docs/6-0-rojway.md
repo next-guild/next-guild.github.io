@@ -14,11 +14,13 @@ A [regular 6-0](/tactics/4-mesmers-6-0) variant using [Ray of Judgment] Smiting 
 | MT | Main tank; follows the regular 6-0 route. | [Open role](/tactics/6-0-rojway/mt) |
 | TT | Trench tank; follows the regular 6-0 route. | [Open role](/tactics/6-0-rojway/tt) |
 | Caller | Mesmer caller who leads the team and controls enemies with [Deep Freeze]. | [Open role](/tactics/6-0-rojway/caller) |
-| TK | Smiter Monk who kills the TK tendril pair. | [Open role](/tactics/6-0-rojway/tk) |
-| IAU | Smiting spiker who covers left-side off-damage and the IAU tendril pair. | [Open role](/tactics/6-0-rojway/iau) |
-| MLK | Smiting spiker who starts City wall and joins Emo for the Gloom rift cap. | [Open role](/tactics/6-0-rojway/mlk) |
+| TK | **On wide balls, TK handles front and left damage.** Smiter Monk who kills the TK tendril pair. | [Open role](/tactics/6-0-rojway/tk) |
+| IAU | **IAU always handles off-damage, including on wide balls.** Smiting spiker who covers left-side off-damage and the IAU tendril pair. | [Open role](/tactics/6-0-rojway/iau) |
+| MLK | **On wide balls, MLK handles back and right damage.** Smiting spiker who starts City wall and joins Emo for the Gloom rift cap. | [Open role](/tactics/6-0-rojway/mlk) |
 | UA | Seeder who supports the team with Ebon Battle Standard of Wisdom at key spikes. | [Open role](/tactics/6-0-rojway/ua) |
 | Emo | Bonds the team as in regular 6-0. MLK or Seeder joins Emo for the Gloom rift cap. | [Open role](/tactics/6-0-rojway/emo) |
+
+C-target management is shared: anyone with [You Move Like a Dwarf!] plus either [Banish] or [Spiritual Pain] can handle them.
 
 ## Team build
 
@@ -26,7 +28,7 @@ A [regular 6-0](/tactics/4-mesmers-6-0) variant using [Ray of Judgment] Smiting 
 
 [bar TT;OwFkMid3HXh0BkOzEENJCEuToTnD]
 
-[bar Caller;OQZDAsw7QqDuNTPNB4Uwl2k0l]
+[bar Caller;OQZDAsw7QqDuNNBTP4UwlQf0l]
 
 [bar TK;OwcTAZH/HSu0n5eg6jfIm0mszB]
 
@@ -47,3 +49,9 @@ TK, IAU, and MLK use [Smiter gear](/tactics/gear/smiting-monk), with the same pc
 - Smiters use one AoE on the first and last Mank and on every Su.
 
 - Caller (VoR) uses [Visions of Regret] on every Mank.
+
+## Veil: first wave of 360 at the glitch spot
+
+- Seeder places [Edge of Extinction] under [Quickening Zephyr] at Jadoth, then goes with MLK and MT. Seeder places another [Edge of Extinction] at the Dervish lord gates.
+
+- MLK uses [Arcane Echo] + [Ray of Judgment] at the glitch spot instead of [Arcane Echo] + [Wastrel's Demise].

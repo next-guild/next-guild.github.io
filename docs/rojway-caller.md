@@ -9,7 +9,7 @@ Mesmer caller who leads the team and controls enemies with [Deep Freeze].
 
 ## Build
 
-[Caller;OQZDAsw7QqDuNTPNB4Uwl2k0l]
+[Caller;OQZDAsw7QqDuNNBTP4UwlQf0l]
 
 ## Gear and consumables
 
@@ -18,7 +18,6 @@ Use the shared [mesmer gear](/tactics/gear/mesmer) and the pcons listed there.
 ## Titles
 
 [titles name="Required title tracks"]
-[title name="Norn" rank=5][/title]
 [title name="Asura" rank=5][/title]
 [/titles]
 
@@ -31,3 +30,5 @@ Use the shared [mesmer gear](/tactics/gear/mesmer) and the pcons listed there.
 - Put [Chaos Storm] on IAU's front tendril to help with damage. This is required.
 
 - On City wall, use [Visions of Regret] on every Mank.
+
+- Use [Earthen Shackles] on Black Beast wave 1 and Darknesses wave 1.

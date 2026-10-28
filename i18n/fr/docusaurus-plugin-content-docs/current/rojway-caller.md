@@ -9,7 +9,7 @@ Mesmer caller qui dirige la team et contrôle les ennemis avec [Deep Freeze].
 
 ## Build
 
-[Caller;OQZDAsw7QqDuNTPNB4Uwl2k0l]
+[Caller;OQZDAsw7QqDuNNBTP4UwlQf0l]
 
 ## Équipement et consommables
 
@@ -18,7 +18,6 @@ Utilisez l'[équipement mesmer](/tactics/gear/mesmer) et les pcons indiqués sur
 ## Titres
 
 [titles name="Titres requis"]
-[title name="Norn" rank=5][/title]
 [title name="Asura" rank=5][/title]
 [/titles]
 
@@ -31,3 +30,5 @@ Utilisez l'[équipement mesmer](/tactics/gear/mesmer) et les pcons indiqués sur
 - Posez [Chaos Storm] sur le tendril de devant d'IAU pour compléter ses dégâts. C'est obligatoire.
 
 - Au City wall, utilisez [Visions of Regret] sur chaque Mank.
+
+- Utilisez [Earthen Shackles] sur la wave 1 du Black Beast et la wave 1 des Darknesses.

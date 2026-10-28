@@ -20,3 +20,5 @@ Utilisez l'[équipement mt](/tactics/gear/mt) et les pcons indiqués sur cette p
 - Suivez les [instructions MT du 6-0 classique](/tactics/4-mesmers-6-0/mt), y compris l'équipement, les titres et les conseils de rôle, avec le build Rojway ci-dessus.
 
 - Annoncez toujours si vous avez le spawn du tendril IAU. N'hésitez pas à prendre vous-même l'aggro s'il apparaît plus près de vous : IAU n'a pas [Heart of Shadow], donc aller chercher les spawns éloignés est risqué pour ce rôle.
+
+- Pour la première wave de 360 en Veil, le Seeder accompagne MT et MLK après avoir posé [Edge of Extinction] sous [Quickening Zephyr] à Jadoth, puis pose un autre [Edge of Extinction] aux portes du lord derviche. MLK utilise [Arcane Echo] + [Ray of Judgment] au glitch spot.

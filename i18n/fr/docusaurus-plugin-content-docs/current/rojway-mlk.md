@@ -25,7 +25,11 @@ Utilisez l'[équipement Smiter](/tactics/gear/smiting-monk) et les pcons indiqu�
 
 ## Notes
 
-- Sur les spikes au glitch spot, utilisez [Ray of Judgment] et [Symbol of Wrath] quand les ennemis sont à environ 50% HP.
+- Pour la première wave de 360 en Veil, au glitch spot, utilisez [Arcane Echo] + [Ray of Judgment] à la place de [Arcane Echo] + [Wastrel's Demise]. Le Seeder accompagne MLK et MT et pose [Edge of Extinction] aux portes du lord derviche.
+
+- **Sur les balls larges, MLK gère les dégâts derrière et à droite.**
+
+- Pour les autres spikes au glitch spot, utilisez [Ray of Judgment] et [Symbol of Wrath] quand les ennemis sont à environ 50% HP.
 
 - Au glitch spot MLK, lancez un [Wastrel's Demise] assez tôt avant le lord, dès que vous prenez l'aggro de la dernière wave qui arrive. Cela met [Arcane Echo] en recharge plus tôt pour qu'il soit disponible pour tuer le lord.
 
@@ -36,3 +40,5 @@ Utilisez l'[équipement Smiter](/tactics/gear/smiting-monk) et les pcons indiqu�
 - En Gloom, allez avec Emo pour cap la rift ; le Seeder peut aussi l'accompagner avec l'équipement indiqué sur sa page.
 
 - Au City wall, utilisez une AoE sur le premier et le dernier Mank, ainsi que sur chaque Su.
+
+- La gestion des C-targets est partagée : toute personne avec [You Move Like a Dwarf!] et [Banish] ou [Spiritual Pain] peut s'en charger.

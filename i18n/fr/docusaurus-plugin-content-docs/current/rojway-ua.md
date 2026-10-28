@@ -40,3 +40,5 @@ Utilisez l'[équipement ua](/tactics/gear/ua) et les pcons indiqués sur cette p
 - Pour tuer votre claw à la rift, ou le tendril MLK s'il est en retard, lancez vos enchantements avec une arme qui prolonge leur durée et maximisez l'effet de [Balthazar's Aura] sur vous-même. Auto-attaquez aussi avec le marteau anniversaire ou un bâton.
 
 - Lancez [Healing Seed] sur IAU pendant la dernière wave de 360 : c'est IAU qui pull. Anticipez le temps d'incantation.
+
+- Pour la première wave de 360 en Veil, posez [Edge of Extinction] sous [Quickening Zephyr] à Jadoth, puis accompagnez MLK et MT. Posez un autre [Edge of Extinction] aux portes du lord derviche.

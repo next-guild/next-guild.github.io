@@ -25,7 +25,11 @@ Use the shared [Smiter gear](/tactics/gear/smiting-monk) and the pcons listed th
 
 ## Notes
 
-- Use [Ray of Judgment] and [Symbol of Wrath] for glitch-spot spikes when enemies are at around 50% health.
+- At the glitch spot for the first wave of 360 in Veil, use [Arcane Echo] + [Ray of Judgment] instead of [Arcane Echo] + [Wastrel's Demise]. Seeder accompanies MLK and MT and places [Edge of Extinction] at the Dervish lord gates.
+
+- **On wide balls, MLK handles back and right damage.**
+
+- For other glitch-spot spikes, use [Ray of Judgment] and [Symbol of Wrath] when enemies are at around 50% health.
 
 - Cast one [Wastrel's Demise] early at the MLK glitch spot before the lord, as you get aggro from the incoming last wave. This puts [Arcane Echo] on cooldown sooner so it is available for the lord kill.
 
@@ -36,3 +40,5 @@ Use the shared [Smiter gear](/tactics/gear/smiting-monk) and the pcons listed th
 - In Gloom, join Emo for the rift cap; Seeder can also accompany Emo with the gear listed on the Seeder page.
 
 - On City wall, use one AoE on the first and last Mank and on every Su.
+
+- C-target management is shared: anyone with [You Move Like a Dwarf!] plus either [Banish] or [Spiritual Pain] can handle them.

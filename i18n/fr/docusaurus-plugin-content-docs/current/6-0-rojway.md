@@ -14,11 +14,13 @@ Variante du [6-0 classique](/tactics/4-mesmers-6-0) avec des moines Smiting util
 | MT | Main tank ; suit la route 6-0 habituelle. | [Ouvrir le rôle](/tactics/6-0-rojway/mt) |
 | TT | Trench tank ; suit la route 6-0 habituelle. | [Ouvrir le rôle](/tactics/6-0-rojway/tt) |
 | Caller | Mesmer caller qui dirige la team et contrôle les ennemis avec [Deep Freeze]. | [Ouvrir le rôle](/tactics/6-0-rojway/caller) |
-| TK | Moine Smiter qui tue la paire de tendrils TK. | [Ouvrir le rôle](/tactics/6-0-rojway/tk) |
-| IAU | Spiker Smiting qui gère l'off-damage à gauche et la paire de tendrils IAU. | [Ouvrir le rôle](/tactics/6-0-rojway/iau) |
-| MLK | Spiker Smiting qui démarre le City wall et rejoint Emo pour cap la rift en Gloom. | [Ouvrir le rôle](/tactics/6-0-rojway/mlk) |
+| TK | **Sur les balls larges, TK gère les dégâts devant et à gauche.** Moine Smiter qui tue la paire de tendrils TK. | [Ouvrir le rôle](/tactics/6-0-rojway/tk) |
+| IAU | **IAU reste toujours sur l'off-damage, y compris sur les balls larges.** Spiker Smiting qui gère l'off-damage à gauche et la paire de tendrils IAU. | [Ouvrir le rôle](/tactics/6-0-rojway/iau) |
+| MLK | **Sur les balls larges, MLK gère les dégâts derrière et à droite.** Spiker Smiting qui démarre le City wall et rejoint Emo pour cap la rift en Gloom. | [Ouvrir le rôle](/tactics/6-0-rojway/mlk) |
 | UA | Seeder qui soutient la team avec Ebon Battle Standard of Wisdom sur les spikes importants. | [Ouvrir le rôle](/tactics/6-0-rojway/ua) |
 | Emo | Bonds la team comme en 6-0 classique. MLK ou Seeder rejoint Emo pour cap la rift en Gloom. | [Ouvrir le rôle](/tactics/6-0-rojway/emo) |
+
+La gestion des C-targets est partagée : toute personne avec [You Move Like a Dwarf!] et [Banish] ou [Spiritual Pain] peut s'en charger.
 
 ## Build d'équipe
 
@@ -26,7 +28,7 @@ Variante du [6-0 classique](/tactics/4-mesmers-6-0) avec des moines Smiting util
 
 [bar TT;OwFkMid3HXh0BkOzEENJCEuToTnD]
 
-[bar Caller;OQZDAsw7QqDuNTPNB4Uwl2k0l]
+[bar Caller;OQZDAsw7QqDuNNBTP4UwlQf0l]
 
 [bar TK;OwcTAZH/HSu0n5eg6jfIm0mszB]
 
@@ -47,3 +49,9 @@ TK, IAU et MLK utilisent l'[équipement Smiter](/tactics/gear/smiting-monk), ave
 - Les Smiters utilisent une AoE sur le premier et le dernier Mank, ainsi que sur chaque Su.
 
 - Le Caller (VoR) utilise [Visions of Regret] sur chaque Mank.
+
+## Veil : première wave de 360 au glitch spot
+
+- Le Seeder pose [Edge of Extinction] sous [Quickening Zephyr] à Jadoth, puis accompagne MLK et MT. Il pose un autre [Edge of Extinction] aux portes du lord derviche.
+
+- MLK utilise [Arcane Echo] + [Ray of Judgment] au glitch spot à la place de [Arcane Echo] + [Wastrel's Demise].
