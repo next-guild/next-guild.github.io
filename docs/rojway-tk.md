@@ -24,7 +24,7 @@ Use the shared [Smiter gear](/tactics/gear/smiting-monk) and the pcons listed th
 
 ## Notes
 
-- **On wide balls, TK handles front and left damage.**
+- **On wide balls, TK handles back and left damage.**
 
 - Kill the tendrils with [Pain Inverter] + [Banish] on one, and [Ray of Judgment] → [Symbol of Wrath] → [You Move Like a Dwarf!] on the other.
 

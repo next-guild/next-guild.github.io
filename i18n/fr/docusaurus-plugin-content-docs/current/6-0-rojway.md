@@ -14,9 +14,9 @@ Variante du [6-0 classique](/tactics/4-mesmers-6-0) avec des moines Smiting util
 | MT | Main tank ; suit la route 6-0 habituelle. | [Ouvrir le rôle](/tactics/6-0-rojway/mt) |
 | TT | Trench tank ; suit la route 6-0 habituelle. | [Ouvrir le rôle](/tactics/6-0-rojway/tt) |
 | Caller | Mesmer caller qui dirige la team et contrôle les ennemis avec [Deep Freeze]. | [Ouvrir le rôle](/tactics/6-0-rojway/caller) |
-| TK | **Sur les balls larges, TK gère les dégâts devant et à gauche.** Moine Smiter qui tue la paire de tendrils TK. | [Ouvrir le rôle](/tactics/6-0-rojway/tk) |
+| TK | **Sur les balls larges, TK gère les dégâts derrière et à gauche.** Moine Smiter qui tue la paire de tendrils TK. | [Ouvrir le rôle](/tactics/6-0-rojway/tk) |
 | IAU | **IAU reste toujours sur l'off-damage, y compris sur les balls larges.** Spiker Smiting qui gère l'off-damage à gauche et la paire de tendrils IAU. | [Ouvrir le rôle](/tactics/6-0-rojway/iau) |
-| MLK | **Sur les balls larges, MLK gère les dégâts derrière et à droite.** Spiker Smiting qui démarre le City wall et rejoint Emo pour cap la rift en Gloom. | [Ouvrir le rôle](/tactics/6-0-rojway/mlk) |
+| MLK | **Sur les balls larges, MLK gère les dégâts devant et à droite.** Spiker Smiting qui démarre le City wall et rejoint Emo pour cap la rift en Gloom. | [Ouvrir le rôle](/tactics/6-0-rojway/mlk) |
 | UA | Seeder qui soutient la team avec Ebon Battle Standard of Wisdom sur les spikes importants. | [Ouvrir le rôle](/tactics/6-0-rojway/ua) |
 | Emo | Bonds la team comme en 6-0 classique. MLK ou Seeder rejoint Emo pour cap la rift en Gloom. | [Ouvrir le rôle](/tactics/6-0-rojway/emo) |
 

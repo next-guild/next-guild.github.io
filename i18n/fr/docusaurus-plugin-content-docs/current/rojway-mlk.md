@@ -27,7 +27,7 @@ Utilisez l'[équipement Smiter](/tactics/gear/smiting-monk) et les pcons indiqu�
 
 - Pour la première wave de 360 en Veil, au glitch spot, utilisez [Arcane Echo] + [Ray of Judgment] à la place de [Arcane Echo] + [Wastrel's Demise]. Le Seeder accompagne MLK et MT et pose [Edge of Extinction] aux portes du lord derviche.
 
-- **Sur les balls larges, MLK gère les dégâts derrière et à droite.**
+- **Sur les balls larges, MLK gère les dégâts devant et à droite.**
 
 - Pour les autres spikes au glitch spot, utilisez [Ray of Judgment] et [Symbol of Wrath] quand les ennemis sont à environ 50% HP.
 

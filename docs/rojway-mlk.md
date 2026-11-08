@@ -27,7 +27,7 @@ Use the shared [Smiter gear](/tactics/gear/smiting-monk) and the pcons listed th
 
 - At the glitch spot for the first wave of 360 in Veil, use [Arcane Echo] + [Ray of Judgment] instead of [Arcane Echo] + [Wastrel's Demise]. Seeder accompanies MLK and MT and places [Edge of Extinction] at the Dervish lord gates.
 
-- **On wide balls, MLK handles back and right damage.**
+- **On wide balls, MLK handles front and right damage.**
 
 - For other glitch-spot spikes, use [Ray of Judgment] and [Symbol of Wrath] when enemies are at around 50% health.
 

@@ -24,7 +24,7 @@ Utilisez l'[équipement Smiter](/tactics/gear/smiting-monk) et les pcons indiqu�
 
 ## Notes
 
-- **Sur les balls larges, TK gère les dégâts devant et à gauche.**
+- **Sur les balls larges, TK gère les dégâts derrière et à gauche.**
 
 - Pour tuer les tendrils, utilisez [Pain Inverter] + [Banish] sur l'un, puis [Ray of Judgment] → [Symbol of Wrath] → [You Move Like a Dwarf!] sur l'autre.
 
