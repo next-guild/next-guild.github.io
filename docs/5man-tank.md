@@ -6,7 +6,7 @@ title: Tank
 
 # Tank
 
-Main tank for 5 Man.
+Main tank for 5man Mezway.
 
 ## Build
 

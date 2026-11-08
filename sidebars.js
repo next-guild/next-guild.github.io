@@ -91,7 +91,13 @@ module.exports = {
                 },
                 {
                     type: 'category',
-                    label: '5 Man',
+                    label: '5man Rojway',
+                    link: { type: 'doc', id: '5man-rojway' },
+                    items: ['5man-rojway-tank', '5man-rojway-caller', '5man-rojway-tk', '5man-rojway-seeder', '5man-rojway-emo'],
+                },
+                {
+                    type: 'category',
+                    label: '5man Mezway',
                     link: { type: 'doc', id: '5man' },
                     items: [
                         '5man-ss',

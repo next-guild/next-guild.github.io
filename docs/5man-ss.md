@@ -6,7 +6,7 @@ title: SS
 
 # SS
 
-Necro damage and utility role for 5 Man.
+Necro damage and utility role for 5man Mezway.
 
 ## Build
 

@@ -1,13 +1,13 @@
 ---
 id: 5man
 slug: 5man
-title: 5 Man
-sidebar_label: 5 Man
+title: 5man Mezway
+sidebar_label: 5man Mezway
 ---
 
-# 5 Man
+# 5man Mezway
 
-5 Man is a compact advanced tactic built around a Necro SS, TK, MeMo, Emo, and a single Tank.
+5man Mezway is a compact advanced tactic built around a Necro SS, TK, MeMo, Emo, and a single Tank.
 
 ## Roles
 
@@ -23,7 +23,7 @@ sidebar_label: 5 Man
 
 [bar SS;OAJUYsDbXsQWC5BuQwBQHPH2kxkA]
 
-[bar TK;OQdTAYB/HaJ4Ew0Z6RuEBimszBA]
+[bar TK;OQdUAwAL0vQKBIgmOTPdOIQ0kylA]
 
 [bar MeMo;OQNEAqwN+ioButpL4bw0LRxD]
 

@@ -17,6 +17,10 @@ Le Seeder peut rejoindre Emo pour cap la rift en Gloom avec le Vampiric Annivers
 
 Utilisez l'[équipement ua](/tactics/gear/ua) et les pcons indiqués sur cette page.
 
+[gear name="Pièce supplémentaire de Faveur divine supérieure"]
+[armor piece="Leg" rune="Rune of Superior Divine Favor +3 / Health -75" insignia="Radiant Insignia / +2 energy" rating=60]
+[/gear]
+
 [gear name="Arme requise pour le cap de la rift avec le Smiter seeder"]
 [weapon type="Hammer" rarity=gold name="Vampiric Anniversary Hammer of Demonslaying" stat="Damage: 19-35 (Requires 9 Divine Favor)"]
 [mod name="&quot;Guided by Fate&quot;" effect="Damage +15% (while Enchanted)"][/mod]

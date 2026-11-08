@@ -10,11 +10,17 @@ TK gère cave, off-damage, snakes, city hill setup et tendrils.
 
 ## Build
 
-[TK;OQdTAYB/HaJ4Ew0Z6RuEBimszBA]
+[TK;OQdUAwAL0vQKBIgmOTPdOIQ0kylA]
 
 ## Équipement
 
 Utilisez la page partagée [équipement Mesmer](/tactics/gear/mesmer) comme base.
+
+Prévoyez une pièce supplémentaire avec une rune d’Illusion +3, comme le [TK 3-3](/tactics/4-mesmers-3-3/tk).
+
+[gear name="Pièce d'armure Illusion supérieure"]
+[armor piece="Leg" rune="Rune of Superior Illusion Magic +3 / Health -75" insignia="Radiant Insignia / +2 energy" rating=60]
+[/gear]
 
 [gear name="Derv hill armor"]
 [armor piece="Headgear" rune="Rune of Life / Health +10" insignia="Blessed Insignia / Armor +10 while affected by an Enchantment spell" rating=60 base="Fast Casting +1"]
@@ -67,7 +73,7 @@ Utile pour votre pull du derv lord.
 ### Veil
 
 - Pull left hill pendant 360.
-- Allez faire derv hill avec MeMo. [Recall] le, [Arcane echo] votre [Heart of Shadow]. Voir la vidéo ci-dessous.
+- Allez faire derv hill avec MeMo. [Recall] le, [Echo] votre [Heart of Shadow]. Voir la vidéo ci-dessous.
 - Spikez les groupes que le tank amène au glitch spot.
 - Si le tank a réussi à pull le left-side clover group, allez au Mesmer Lord ; sinon allez au Monk Lord.
 - Echo [Pain Inverter] sur les deux back tendrils pendant le premier 3-3.
