@@ -51,6 +51,15 @@ Gear for the Mantra, IAU, and MLK Smiting Monks in [6-0 Rojway](/tactics/6-0-roj
 [/weapon]
 [/gear]
 
+This wand can replace the wand in the high energy set above, paired with the same focus.
+
+[gear name="Alternative high energy wand — Soul Reaping"]
+[weapon type="Wand" rarity=gold name="Smiting Wand (of the Necromancer)" stat="Dmg 11-22 (Requires 9 Smiting Prayers)"]
+[mod effect="Soul Reaping: 5"][/mod]
+[mod name="&quot;Seize the Day&quot;" effect="Energy +15 / Energy regeneration -1"][/mod]
+[/weapon]
+[/gear]
+
 ## Consumables
 
 Use the same pcons as the [Mesmer gear](/tactics/gear/mesmer) page.

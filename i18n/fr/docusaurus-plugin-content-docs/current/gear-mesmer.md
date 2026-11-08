@@ -39,6 +39,15 @@ L'équipement mesmer se concentre sur l'augmentation du dps via les cooldowns et
 [/weapon]
 [/gear]
 
+Cette baguette peut remplacer celle du set haute énergie ci-dessus, avec le même focus.
+
+[gear name="Baguette alternative haute énergie — Soul Reaping"]
+[weapon type="Wand" rarity=gold name="Domination Wand (of the Necromancer)" stat="Chaos dmg: 11-22 (Requires 9 Domination Magic)"]
+[mod effect="Soul Reaping: 5"][/mod]
+[mod name="&quot;Seize the Day&quot;" effect="Energy +15 / Energy regeneration -1"][/mod]
+[/weapon]
+[/gear]
+
 Utilisez-le quand vous êtes bas en énergie mais que vous devez tout de même répondre présent pour un spike important.
 
 [gear name="Set défensif"]

@@ -39,6 +39,15 @@ The mesmer gear focuses on increasing dps through cooldown & casting times with 
 [/weapon]
 [/gear]
 
+This wand can replace the wand in the high energy set above, paired with the same focus.
+
+[gear name="Alternative high energy wand — Soul Reaping"]
+[weapon type="Wand" rarity=gold name="Domination Wand (of the Necromancer)" stat="Chaos dmg: 11-22 (Requires 9 Domination Magic)"]
+[mod effect="Soul Reaping: 5"][/mod]
+[mod name="&quot;Seize the Day&quot;" effect="Energy +15 / Energy regeneration -1"][/mod]
+[/weapon]
+[/gear]
+
 Use it when you run low in energy but still need to answer present for important spikes.
 
 [gear name="Defensive set"]

@@ -51,6 +51,15 @@ sidebar_label: Smiter
 [/weapon]
 [/gear]
 
+Cette baguette peut remplacer celle du set haute énergie ci-dessus, avec le même focus.
+
+[gear name="Baguette alternative haute énergie — Soul Reaping"]
+[weapon type="Wand" rarity=gold name="Smiting Wand (of the Necromancer)" stat="Dmg 11-22 (Requires 9 Smiting Prayers)"]
+[mod effect="Soul Reaping: 5"][/mod]
+[mod name="&quot;Seize the Day&quot;" effect="Energy +15 / Energy regeneration -1"][/mod]
+[/weapon]
+[/gear]
+
 ## Consommables
 
 Utilisez les mêmes pcons que dans l'[équipement Mesmer](/tactics/gear/mesmer).
