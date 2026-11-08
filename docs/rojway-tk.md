@@ -15,6 +15,14 @@ Smiter Monk who kills the TK tendril pair.
 
 Use the shared [Smiter gear](/tactics/gear/smiting-monk) and the pcons listed there.
 
+[gear name="Flatbow or Longbow, stats do not matter"]
+[weapon type="Bow" rarity=gold name="Bow of Warding" stat="Piercing dmg: 10-10"]
+[mod effect="Armor +7 (vs Elemental damage)"][/mod]
+[/weapon]
+[/gear]
+
+Use it to pull the Elementalist lord.
+
 ## Titles
 
 [titles name="Required title tracks"]

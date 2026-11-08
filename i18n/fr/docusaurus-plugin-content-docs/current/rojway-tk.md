@@ -15,6 +15,14 @@ Moine Smiter qui tue la paire de tendrils TK.
 
 Utilisez l'[équipement Smiter](/tactics/gear/smiting-monk) et les pcons indiqués sur cette page.
 
+[gear name="Flatbow ou Longbow, les statistiques n'ont pas d'importance"]
+[weapon type="Bow" rarity=gold name="Bow of Warding" stat="Piercing dmg: 10-10"]
+[mod effect="Armor +7 (vs Elemental damage)"][/mod]
+[/weapon]
+[/gear]
+
+Utilisez-le pour pull le lord élémentaliste.
+
 ## Titres
 
 [titles name="Titres requis"]
